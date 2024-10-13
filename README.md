@@ -4,6 +4,15 @@
     {
       "name": "Movies",
       "videos": [
+            {
+          "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
+          "sources": [
+            "http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
+          "title": "BEIN SPORTS 1"
+        },
         {
           "description": "Bein Sports 3 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...",
           "sources": [
@@ -14,6 +23,15 @@
           "title": "BEIN SPORT 3"
         },
         {
+          "description": "Serie A Futboll Match est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://194.143.148.28/MatchFutbol1/index.m3u8"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/M18yOTI0NDE4NThf/seriesA.jpeg",
+          "title": "SERIE A"
+        },
+        {
           "description": "infos Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "http://99.27.51.147:8080/Infosport/index.m3u8"
@@ -21,6 +39,15 @@
           "subtitle": "By Channel",
           "thumb": "https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png",
           "title": "INFO SPORTS 1"
+        },
+         {
+          "description": "DAZN LALIGA est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://oha.to/play3461295847/index.m3u8"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png",
+          "title": "DAZN LALIGA"
         },
         {
           "description": "Premier football 1 TV est la chaine sportive qui se focalise aux Sports..",
@@ -131,15 +158,6 @@
           "title": "LIGA TV"
         },
         {
-          "description": "Serie A Futboll Match est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://194.143.148.28/MatchFutbol1/index.m3u8"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTI0NDE4NThf/seriesA.jpeg",
-          "title": "SERIE A"
-        },
-        {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
             "http://51.178.65.238/BeinSport/mono.m3u8"
@@ -206,6 +224,24 @@
           "description": "Sky Sports LaLiga tv est une chaine de sports.",
           "sources": [
             "http://181.78.109.49:8000/play/a06r/index.m3u8"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/NDZfNjA1OTEzNTBf/skylaliga.png",
+          "title": "SKY LA LIGA"
+        },
+         {
+          "description": "Sky Sports LaLiga tv est une chaine de sports.",
+          "sources": [
+            "http://181.78.105.146:2000/play/a08m/index.m3u8"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/NDZfNjA1OTEzNTBf/skylaliga.png",
+          "title": "SKY LA LIGA"
+        },
+         {
+          "description": "Sky Sports LaLiga tv est une chaine de sports.",
+          "sources": [
+            "http://190.92.10.66:4000/play/a001/index.m3u8"
           ],
           "subtitle": "By Channel",
           "thumb": "https://od.lk/s/NDZfNjA1OTEzNTBf/skylaliga.png",
