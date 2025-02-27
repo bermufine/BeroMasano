@@ -13,6 +13,15 @@
           "thumb": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
           "title": "PERSIANA SPORT 1"
         },
+         {
+          "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+          "title": "AFRO SPORTS"
+        },
         {
           "description": "START SPORTS 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
