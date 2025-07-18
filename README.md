@@ -21,7 +21,7 @@
           ],
           "subtitle": "All Channels",
           "number": "363",
-          "thumb": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
+          "thumb": "https://od.lk/s/NDZfODM5NjU2ODlf/africa24sports.jpeg",
           "title": "AFRICA 24 SPORTS"
         },
          {
