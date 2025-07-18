@@ -14,6 +14,16 @@
           "thumb": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
           "title": "PERSIANA SPORT 1"
         },
+        {
+          "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "363",
+          "thumb": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
+          "title": "AFRICA 24 SPORTS"
+        },
          {
           "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
@@ -83,11 +93,7 @@
           "number": "370",
           "thumb": "https://od.lk/s/NDZfNzgxNjA1MjRf/starsport1.jpg",
           "title": "START SPORTS 1"
-        }
-      ]
-    }
-  ]
-}
+        },  
         {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
@@ -128,10 +134,6 @@
           "thumb": "https://od.lk/s/M18yNTkxODU4MDZf/beintree.png",
           "title": "BEIN SPORT 1"
         },
-        {"description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"RMC 1"},
-{"description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png","title":"RMC 2"},
-{"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
-{"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC4/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 4"},
         {
           "description": "ARENA PREMIUM 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
@@ -766,3 +768,9 @@
     }
   ]
 }
+
+
+ {"description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"RMC 1"},
+{"description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png","title":"RMC 2"},
+{"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
+{"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC4/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 4"},
