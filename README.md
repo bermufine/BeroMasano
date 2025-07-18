@@ -340,7 +340,7 @@
             "https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "395,
+          "number": "395",
           "thumb": "https://od.lk/s/NDZfNzgxNjAxMDFf/solhsport.png",
           "title": "SOLH SPORTS"
         },
