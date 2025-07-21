@@ -14,6 +14,16 @@
           "thumb": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
           "title": "PERSIANA SPORT 1"
         },
+         {
+          "description": "Super SPORT Cricketest la chaine sportive qui se focalise au championnat international de Crickets....",
+          "sources": [
+            "http://starshare.fun/live/home123/home123/158442.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODQwNTA2ODNf/sSportsCrickets.jpeg",
+          "title": "SUPER SPORT CRICKET"
+        },
         {
           "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
