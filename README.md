@@ -84,6 +84,16 @@
           "thumb": "https://od.lk/s/M18yNjUzMDQ4MzFf/beinfive",
           "title": "BEIN SPORT 5"
         },
+        {
+          "description": "START SPORTS SELECT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://103.122.252.100:8080/STAR-SPORTS-SELECT-1/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "546",
+          "thumb": "https://od.lk/s/NDZfODUyOTA2MjBf/starsportselect1.jpeg",
+          "title": "START SELECT 1"
+        },
          {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
@@ -125,23 +135,13 @@
           "title": "START SPORTS 3"
         },
         {
-          "description": "START SPORTS 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://41.205.93.154/STARSPORTS1/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "546",
-          "thumb": "https://od.lk/s/NDZfNzgxNjA1MjRf/starsport1.jpg",
-          "title": "START SPORTS 4"
-        },
-        {
           "description": "TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "https://tvsen6.aynaott.com/btSport1/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "547",
-          "thumb": "https://od.lk/s/NDZfODUyODk3MDNf/eurosportswwe.jpeg",
+          "thumb": "https://od.lk/s/NDZfODUyODk5NTJf/tntsports.jpeg",
           "title": "TNT SPORTS"
         },
         {
