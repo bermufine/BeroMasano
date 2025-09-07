@@ -14,10 +14,20 @@
           "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
           "title": "SUPER-S FOOTBALL"
           },
-           {
+          {
           "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international....",
           "sources": [
             "http://145.239.5.177/564/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTVf/supersportspl.jpg",
+          "title": "SUPER-S SPL"
+        },
+        {
+          "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://145.239.5.177/565/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "429",
@@ -34,46 +44,6 @@
           "thumb": "https://od.lk/s/NDZfODQwNTA2ODNf/sSportsCrickets.jpeg",
           "title": "SUPER-S CRICKET"
         },
-          {
-          "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://103.122.252.100:8080/EUROSPORT/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "547",
-          "thumb": "https://od.lk/s/NDZfODUyODk3MDNf/eurosportswwe.jpeg",
-          "title": "EUROSPORTS WWE"
-        },
-        {
-          "description": "Azam Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
-          "sources": [
-            "http://145.239.5.177:80/568/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "518",
-          "thumb": "https://od.lk/s/NDZfODQ3NDIwMDNf/azam1.jpeg",
-          "title": "AZAM SPORTS 1"
-          },
-          {
-          "description": "Azam Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
-          "sources": [
-            "http://145.239.5.177:80/569/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "519",
-          "thumb": "https://od.lk/s/NDZfODQ3NDIwMDVf/azam2.jpeg",
-          "title": "AZAM SPORTS 2"
-          },
-          {
-          "description": "Azam Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
-          "sources": [
-            "http://145.239.5.177:80/570/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "520",
-          "thumb": "https://od.lk/s/NDZfODQ3NDIwMzVf/azamc.png",
-          "title": "AZAM SPORTS 3"
-          },
         {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
@@ -968,3 +938,44 @@
  
 {"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
 {"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/SARMC4/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 4"},
+
+{
+          "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://103.122.252.100:8080/EUROSPORT/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "547",
+          "thumb": "https://od.lk/s/NDZfODUyODk3MDNf/eurosportswwe.jpeg",
+          "title": "EUROSPORTS WWE"
+        },
+        {
+          "description": "Azam Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
+          "sources": [
+            "http://145.239.5.177:80/568/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "518",
+          "thumb": "https://od.lk/s/NDZfODQ3NDIwMDNf/azam1.jpeg",
+          "title": "AZAM SPORTS 1"
+          },
+          {
+          "description": "Azam Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
+          "sources": [
+            "http://145.239.5.177:80/569/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "519",
+          "thumb": "https://od.lk/s/NDZfODQ3NDIwMDVf/azam2.jpeg",
+          "title": "AZAM SPORTS 2"
+          },
+          {
+          "description": "Azam Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
+          "sources": [
+            "http://145.239.5.177:80/570/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "520",
+          "thumb": "https://od.lk/s/NDZfODQ3NDIwMzVf/azamc.png",
+          "title": "AZAM SPORTS 3"
+          },
