@@ -4,7 +4,37 @@
     {
       "name": "Movies",
       "videos": [
-            {
+             {
+          "description": "Super SPORT Football la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "http://145.239.5.177/562/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SUPER-S FOOTBALL"
+          },
+           {
+          "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://145.239.5.177/564/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTVf/supersportspl.jpg",
+          "title": "SUPER-S SPL"
+        },
+         {
+          "description": "Super SPORT Cricketest la chaine sportive qui se focalise au championnat international de Crickets....",
+          "sources": [
+            "http://starshare.fun/live/home123/home123/158442.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODQwNTA2ODNf/sSportsCrickets.jpeg",
+          "title": "SUPER-S CRICKET"
+        },
+          {
           "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://103.122.252.100:8080/EUROSPORT/tracks-v1a1/mono.m3u8"
@@ -253,16 +283,6 @@
           "number": "363",
           "thumb": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
           "title": "PERSIANA SPORT 1"
-        },
-         {
-          "description": "Super SPORT Cricketest la chaine sportive qui se focalise au championnat international de Crickets....",
-          "sources": [
-            "http://starshare.fun/live/home123/home123/158442.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODQwNTA2ODNf/sSportsCrickets.jpeg",
-          "title": "SUPER SPORT CRICKET"
         },
         {
           "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
