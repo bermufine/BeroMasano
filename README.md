@@ -75,6 +75,16 @@
           "title": "CANAL+ SPORTS"
         },
         {
+          "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://212.102.60.80/Infosport/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "382",
+          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
+          "title": "INFO SPORTS"
+        },
+        {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
             "http://145.239.5.177/557/index.m3u8"
@@ -141,7 +151,7 @@
           ],
           "subtitle": "All Channels",
            "number": "403",
-          "thumb": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
+          "thumb": "https://od.lk/s/NDZfODU1MjYyMTdf/beinsport3.png",
           "title": "BEIN-S 3"
         },
         {
@@ -163,16 +173,6 @@
            "number": "407",
           "thumb": "https://od.lk/s/M18yNjUzMDQ4MzFf/beinfive",
           "title": "BEIN SPORT 5"
-        },
-        {
-          "description": "START SPORTS SELECT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://103.122.252.100:8080/STAR-SPORTS-SELECT-1/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "546",
-          "thumb": "https://od.lk/s/NDZfODUyOTA2MjBf/starsportselect1.jpeg",
-          "title": "START SELECT 1"
         },
          {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -203,36 +203,6 @@
           "number": "434",
           "thumb": "https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png",
           "title": "RMC 2"
-        },
-        {
-          "description": "START SPORTS 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://41.205.93.154/STARSPORTS1/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "370",
-          "thumb": "https://od.lk/s/NDZfNzgxNjA1MjRf/starsport1.jpg",
-          "title": "START SPORTS 1"
-        },
-        {
-          "description": "START SPORTS 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://103.122.252.100:8080/STAR-SPORTS-2/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "544",
-          "thumb": "https://od.lk/s/NDZfODQyMjc4NTBf/starsport2.jpeg",
-          "title": "START SPORTS 2"
-        },
-        {
-          "description": "START SPORTS 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://103.122.252.100:8080/STAR-SPORTS-3/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "545",
-          "thumb": "https://od.lk/s/NDZfODUyOTAwNjdf/startsports3.jpeg",
-          "title": "START SPORTS 3"
         },
         {
           "description": "TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -321,7 +291,7 @@
           ],
           "subtitle": "All Channels",
           "number": "400",
-          "thumb": "https://od.lk/s/NDZfNjA1OTE2Mjhf/eurosports.png",
+          "thumb": "https://od.lk/s/NDZfODU1MjY3MjFf/eurosports1.jpeg",
           "title": "EUROSPORTS EN"
         },
          {
@@ -331,7 +301,7 @@
           ],
           "subtitle": "All Channels",
           "number": "402",
-          "thumb": "https://od.lk/s/NDZfNjA1OTE2Mjhf/eurosports.png",
+          "thumb": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
           "title": "EUROSPORTS 2 FR"
         },
         {
@@ -341,7 +311,7 @@
           ],
           "subtitle": "All Channels",
           "number": "402",
-          "thumb": "https://od.lk/s/NDZfNjA1OTE2Mjhf/eurosports.png",
+          "thumb": "https://od.lk/s/NDZfODU1MjY3NDRf/eurosports3.png",
           "title": "EUROSPORTS 2 EN"
         },
         {
@@ -393,36 +363,6 @@
           "number": "369",
           "thumb": "https://od.lk/s/NDZfODM4NDk3NzFf/Sony_TEN5HD.jpeg",
           "title": "SONY TEN 5"
-        },
-        {
-          "description": "SSC Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "https://stream.sainaertebat.com/hls2/ssc1.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "373",
-          "thumb": "https://od.lk/s/NDZfODQyMzI3MDlf/ssc1tv.jpeg",
-          "title": "SSC 1"
-        },
-        {
-          "description": "infos Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://99.27.51.147:8080/Infosport/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "381",
-          "thumb": "https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png",
-          "title": "INFO SPORTS 1"
-        },
-        {
-          "description": "Infos Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://212.102.60.80/Infosport/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "382",
-          "thumb": "https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png",
-          "title": "INFO SPORTS 2"
         },
         {
           "description": "L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
@@ -1009,3 +949,74 @@
           "thumb": "https://od.lk/s/NDZfODQ3NDIwMzVf/azamc.png",
           "title": "AZAM SPORTS 3"
           },
+          {
+          "description": "Infos Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://212.102.60.80/Infosport/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "382",
+          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
+          "title": "INFO SPORTS"
+        },
+
+            {
+          "description": "START SPORTS SELECT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://103.122.252.100:8080/STAR-SPORTS-SELECT-1/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "546",
+          "thumb": "https://od.lk/s/NDZfODUyOTA2MjBf/starsportselect1.jpeg",
+          "title": "START SELECT 1"
+        },
+        {
+          "description": "START SPORTS 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://41.205.93.154/STARSPORTS1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "370",
+          "thumb": "https://od.lk/s/NDZfNzgxNjA1MjRf/starsport1.jpg",
+          "title": "START SPORTS 1"
+        },
+        {
+          "description": "START SPORTS 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://103.122.252.100:8080/STAR-SPORTS-2/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "544",
+          "thumb": "https://od.lk/s/NDZfODQyMjc4NTBf/starsport2.jpeg",
+          "title": "START SPORTS 2"
+        },
+        {
+          "description": "START SPORTS 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://103.122.252.100:8080/STAR-SPORTS-3/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "545",
+          "thumb": "https://od.lk/s/NDZfODUyOTAwNjdf/startsports3.jpeg",
+          "title": "START SPORTS 3"
+        },
+         {
+          "description": "SSC Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://stream.sainaertebat.com/hls2/ssc1.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "373",
+          "thumb": "https://od.lk/s/NDZfODQyMzI3MDlf/ssc1tv.jpeg",
+          "title": "SSC 1"
+        },
+        {
+          "description": "infos Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://99.27.51.147:8080/Infosport/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "381",
+          "thumb": "https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png",
+          "title": "INFO SPORTS 1"
+        },
