@@ -10,7 +10,7 @@
             "http://fl7.moveonjoy.com/WWE/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "429",
+          "number": "929",
           "thumb": "https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
           "title": "WWE WRISTLING"
           },
@@ -20,7 +20,7 @@
             "https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "429",
+          "number": "930",
           "thumb": "https://od.lk/s/NDZfODY5ODU3MDZf/premieresports1.png",
           "title": "PREMIERE SPORTS 1"
           },
@@ -30,7 +30,7 @@
             "https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "429",
+          "number": "931",
           "thumb": "https://od.lk/s/NDZfODY5ODU3MDhf/premieresports2.jpg",
           "title": "PREMIERE SPORTS 2"
           },
@@ -39,7 +39,7 @@
             "https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "429",
+          "number": "932",
           "thumb": "https://od.lk/s/NDZfODY5ODU5NThf/prmiersport4.png",
           "title": "PREMIERE SPORTS 4"
           },
@@ -48,7 +48,7 @@
             "https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "429",
+          "number": "933",
           "thumb": "https://od.lk/s/NDZfODY5ODU5NTZf/premiersport5.png",
           "title": "PREMIERE SPORTS 5"
           },
@@ -258,7 +258,7 @@
             "https://tvsen6.aynaott.com/btSport1/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "547",
+          "number": "934",
           "thumb": "https://od.lk/s/NDZfODY5ODc0NDVf/ziggo1.jpg",
           "title": "ZIGO SPORTS 1"
         },
@@ -268,7 +268,7 @@
             "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "547",
+          "number": "935",
           "thumb": "https://od.lk/s/NDZfODY5ODc0NDZf/ziggo2.png",
           "title": "ZIGO SPORTS 2"
         },
@@ -278,7 +278,7 @@
             "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "547",
+          "number": "936",
           "thumb": "https://od.lk/s/NDZfODY5ODc0NDdf/ziggo3.png",
           "title": "ZIGO SPORTS 3"
         },
@@ -288,7 +288,7 @@
             "https://kusnadipepenk.github.io/ntn/ele1.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "547",
+          "number": "937",
           "thumb": "https://od.lk/s/NDZfODY5ODcxNDdf/cosmotetv.jpg",
           "title": "COSMOTE SPORT 1"
         },
@@ -298,7 +298,7 @@
             "http://iptv.prosto.tv:7000/ch109/video.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "547",
+          "number": "938",
           "thumb": "https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
           "title": "X-SPORT"
         },
@@ -338,7 +338,7 @@
             "https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "478",
+          "number": "939",
           "thumb": "https://od.lk/s/NDZfODY5NzkyMjVf/nflnetwork.png",
           "title": "NFL NETWORK"
               },
@@ -348,7 +348,7 @@
             "https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "478",
+          "number": "940",
           "thumb": "https://od.lk/s/NDZfODY5ODAxOTNf/nhlnetwork.jpg",
           "title": "HNL NETWORK"
               },  
@@ -438,7 +438,7 @@
             "https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "478",
+          "number": "941",
           "thumb": "https://od.lk/s/NDZfODY5ODExOTBf/SPORTSMAN.jpg",
           "title": "SPORTSMAN CHANNEL"
               },
@@ -448,7 +448,7 @@
             "https://fl7.moveonjoy.com/SNY/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "478",
+          "number": "942",
           "thumb": "https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
           "title": "SPORTSNET TV"
               },  
@@ -488,7 +488,7 @@
             "https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "388",
+          "number": "943",
           "thumb": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
           "title": "ESPN NEWS"
         },
@@ -508,7 +508,7 @@
             "https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "395",
+          "number": "944",
           "thumb": "https://od.lk/s/NDZfODY5NzE5OTdf/cbssports.jpg",
           "title": "CBS SPORTS"
         },
@@ -518,9 +518,29 @@
             "https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "395",
+          "number": "945",
           "thumb": "https://od.lk/s/NDZfODY5NzUwMzNf/foxsports1.png",
           "title": "FOX SPORTS 1"
+        },
+         {
+          "description": "FOX SPORTS 1 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "427",
+          "thumb": "https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
+          "title": "FOX SPORTS 1"
+        },
+        {
+          "description": "REAL MADRID TV est la chaine sportive qui se focalise au Real Madrid fc  des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "417",
+          "thumb": "https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
+          "title": "REAL MADRID TV"
         },
         {
           "description": "Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....",
@@ -548,7 +568,7 @@
           "https://fl7.moveonjoy.com/NBA_TV/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "395",
+          "number": "946",
           "thumb": "https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
           "title": "NBA TV"
         },
@@ -558,7 +578,7 @@
             "https://fl7.moveonjoy.com/GOLF/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "395",
+          "number": "947",
           "thumb": "https://od.lk/s/NDZfODY5NzUzODVf/golftv.jpg",
           "title": "GOLF TV"
         },
@@ -608,7 +628,7 @@
           "https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "395",
+          "number": "948",
           "thumb": "https://od.lk/s/NDZfODY5NzU4ODhf/mlbnetwork.png",
           "title": "MLB NETWORK"
         },
@@ -628,7 +648,7 @@
             "https://fl7.moveonjoy.com/PAC_12/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "388",
+          "number": "949",
           "thumb": "https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
           "title": "FANDUEL SPORTS"
         },
@@ -743,16 +763,6 @@
           "title": "MATH 1"
         },
         {
-          "description": "REAL MADRID TV est la chaine sportive qui se focalise au Real Madrid fc  des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "417",
-          "thumb": "https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
-          "title": "REAL MADRID TV"
-        },
-        {
           "description": "TSN 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "https://fl7.moveonjoy.com/TSN_1/index.m3u8"
@@ -843,22 +853,12 @@
           "title": "REDBULL TV"
         },
         {
-          "description": "FOX SPORTS 1 TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "427",
-          "thumb": "https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
-          "title": "FOX SPORTS 1"
-        },
-        {
           "description": "SPORT NETWORK TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
             "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "428",
+          "number": "950",
           "thumb": "https://od.lk/s/NDZfNzgxNjA0ODZf/sportnetwork.png",
           "title": "SPORT NETWORK"
         },
