@@ -34,6 +34,7 @@
           "thumb": "https://od.lk/s/NDZfODY5ODU3MDhf/premieresports2.jpg",
           "title": "PREMIERE SPORTS 2"
           },
+          {
            "description": "Premiere Sports 4 la chaine sportive qui se focalise au championnat international...",
           "sources": [
             "https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8"
@@ -43,6 +44,7 @@
           "thumb": "https://od.lk/s/NDZfODY5ODU5NThf/prmiersport4.png",
           "title": "PREMIERE SPORTS 4"
           },
+          {
           "description": "Premiere Sports 5 la chaine sportive qui se focalise au championnat international...",
           "sources": [
             "https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8"
@@ -301,18 +303,7 @@
           "number": "938",
           "thumb": "https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
           "title": "X-SPORT"
-        }
-      ]
-    }
-  ]
-}
-
-
-
-
-
-
-        
+        },
         {
           "description": "TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
