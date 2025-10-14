@@ -4,7 +4,17 @@
     {
       "name": "Movies",
       "videos": [
-             {
+           {
+          "description": "WWE TV la chaine sportive qui se focalise au combats..",
+          "sources": [
+            "http://fl7.moveonjoy.com/WWE/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
+          "title": "WWE WRISTLING"
+          },
+          {
           "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international...",
           "sources": [
             "http://145.239.5.177/562/index.m3u8"
@@ -97,7 +107,7 @@
         {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
-            "https://fl4.moveonjoy.com/BEIN_SPORTS/index.m3u8"
+            "http://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "372",
@@ -385,6 +395,27 @@
           "title": "L'EQUIPE LIVE 2"
         },
         {
+          "description": "ESPN DEPORTE Sports tv est une chaine de sports.",
+          "sources": [
+            "https://fl7.moveonjoy.com/ESPN_U/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "388",
+          "thumb": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+          "title": "ESPN DEPORTE"
+        },
+        
+         {
+          "description": "ESPN NEWS Sports tv est une chaine de sports.",
+          "sources": [
+            "https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "388",
+          "thumb": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+          "title": "ESPN NEWS"
+        },
+        {
           "description": "TV BAR TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
             "https://p@www.vavoo.to/play/1980907224/index.m3u8"
@@ -393,6 +424,26 @@
           "number": "385",
           "thumb": "https://od.lk/s/NDZfNzgxNTk4ODFf/tvbar.png",
           "title": "TV BAR"
+        },
+        {
+          "description": "CBS SPORTS TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "395",
+          "thumb": "https://od.lk/s/NDZfODY5NzE5OTdf/cbssports.jpg",
+          "title": "CBS SPORTS"
+        },
+        {
+          "description": "Fox SPORTS 1 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "395",
+          "thumb": "https://od.lk/s/NDZfODY5NzUwMzNf/foxsports1.png",
+          "title": "FOX SPORTS 1"
         },
         {
           "description": "Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....",
@@ -415,14 +466,24 @@
           "title": "BEIN EXTRAS"
         },
         {
-          "description": "ESPN DEPORTE Sports tv est une chaine de sports.",
+          "description": "NBA TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "http://190.92.10.66:4000/play/a003/index.m3u8"
+          "https://fl7.moveonjoy.com/NBA_TV/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "388",
-          "thumb": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
-          "title": "ESPN DEPORTE"
+          "number": "395",
+          "thumb": "https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
+          "title": "NBA TV"
+        },
+        {
+          "description": "Golf TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://fl7.moveonjoy.com/GOLF/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "395",
+          "thumb": "https://od.lk/s/NDZfODY5NzUzODVf/golftv.jpg",
+          "title": "GOLF TV"
         },
         {
           "description": "TURKMENISTAN SPORT tv est une chaine de sports.",
@@ -465,6 +526,16 @@
           "title": "SOLH SPORTS"
         },
         {
+          "description": "MLB Network TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+          "https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "395",
+          "thumb": "https://od.lk/s/NDZfODY5NzU4ODhf/mlbnetwork.png",
+          "title": "MLB NETWORK"
+        },
+        {
           "description": "DANZ 1",
           "sources": [
             "http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8"
@@ -473,6 +544,16 @@
           "number": "396",
           "thumb": "https://od.lk/s/NDZfNzgxNjAwODRf/danz1.jpg",
           "title": "DANZ 1"
+        },
+        {
+          "description": "FanDuel Sports Network tv est une chaine de sports.",
+          "sources": [
+            "https://fl7.moveonjoy.com/PAC_12/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "388",
+          "thumb": "https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
+          "title": "FANDUEL SPORTS"
         },
         {
           "description": "SPORT ITALIA 7 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
