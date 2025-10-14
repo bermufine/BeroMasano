@@ -943,7 +943,17 @@
           "number": "437",
           "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
           "title": "LUZILANDIA"
-        }
+        },
+         {
+          "description": "WWE TV la chaine sportive qui se focalise au combats..",
+          "sources": [
+            "http://fl7.moveonjoy.com/WWE/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "929",
+          "thumb": "https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
+          "title": "WWE WRISTLING"
+          }
       ]
     }
   ]
