@@ -15,6 +15,44 @@
           "title": "WWE WRISTLING"
           },
           {
+          "description": "Premiere Sports 1 la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODY5ODU3MDZf/premieresports1.png",
+          "title": "PREMIERE SPORTS 1"
+          },
+          {
+          "description": "Premiere Sports 2 la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODY5ODU3MDhf/premieresports2.jpg",
+          "title": "PREMIERE SPORTS 2"
+          },
+           "description": "Premiere Sports 4 la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODY5ODU5NThf/prmiersport4.png",
+          "title": "PREMIERE SPORTS 4"
+          },
+           "description": "Premiere Sports 5 la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODY5ODU5NTZf/premiersport5.png",
+          "title": "PREMIERE SPORTS 5"
+          },
+          {
           "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international...",
           "sources": [
             "http://145.239.5.177/562/index.m3u8"
@@ -215,6 +253,56 @@
           "title": "RMC 2"
         },
         {
+          "description": "Zigo SPORTS 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://tvsen6.aynaott.com/btSport1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "547",
+          "thumb": "https://od.lk/s/NDZfODY5ODc0NDVf/ziggo1.jpg",
+          "title": "ZIGO SPORTS 1"
+        },
+        {
+          "description": "Zigo SPORTS 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "547",
+          "thumb": "https://od.lk/s/NDZfODY5ODc0NDZf/ziggo2.png",
+          "title": "ZIGO SPORTS 2"
+        },
+        {
+          "description": "Zigo SPORTS 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "547",
+          "thumb": "https://od.lk/s/NDZfODY5ODc0NDdf/ziggo3.png",
+          "title": "ZIGO SPORTS 3"
+        },
+        {
+          "description": "COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://kusnadipepenk.github.io/ntn/ele1.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "547",
+          "thumb": "https://od.lk/s/NDZfODY5ODcxNDdf/cosmotetv.jpg",
+          "title": "COSMOTE SPORT 1"
+        },
+        {
+          "description": "X-SPORT est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://iptv.prosto.tv:7000/ch109/video.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "547",
+          "thumb": "https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+          "title": "X-SPORT"
+        },
+        {
           "description": "TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "https://tvsen6.aynaott.com/btSport1/index.m3u8"
@@ -243,6 +331,26 @@
           "number": "478",
           "thumb": "https://od.lk/s/NDZfODQyMzI0OTFf/ptvsports.jpeg",
           "title": "PTV SPORTS"
+              }, 
+              {
+          "description": "NFL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "478",
+          "thumb": "https://od.lk/s/NDZfODY5NzkyMjVf/nflnetwork.png",
+          "title": "NFL NETWORK"
+              },
+              {
+          "description": "HNL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "478",
+          "thumb": "https://od.lk/s/NDZfODY5ODAxOTNf/nhlnetwork.jpg",
+          "title": "HNL NETWORK"
               },  
               {
           "description": "PERSIANA SPORT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
@@ -324,56 +432,26 @@
           "thumb": "https://od.lk/s/NDZfODU1MjY3NDRf/eurosports3.png",
           "title": "EUROSPORTS 2 EN"
         },
-        {
-          "description": "SONY SPORTS TEN 1 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/master_3500.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "365",
-          "thumb": "https://od.lk/s/NDZfODM4NDk3NjNf/Sony_TEN1HD.jpeg",
-          "title": "SONY TEN 1"
-        },
          {
-          "description": "SONY SPORTS TEN 2 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "description": "SPORTSMAN CHANNEL SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://tataplay.slivcdn.com/hls/live/2020434-b/TEN2HD/master_3500.m3u8"
+            "https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "366",
-          "thumb": "https://od.lk/s/NDZfODM4NDk3NjVf/Sony_TEN2HD.jpeg",
-          "title": "SONY TEN 2"
-        },
-        {
-          "description": "SONY SPORTS TEN 3 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "number": "478",
+          "thumb": "https://od.lk/s/NDZfODY5ODExOTBf/SPORTSMAN.jpg",
+          "title": "SPORTSMAN CHANNEL"
+              },
+              {
+          "description": "SportsNet New York  SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master_3500.m3u8"
+            "https://fl7.moveonjoy.com/SNY/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "367",
-          "thumb": "https://od.lk/s/NDZfODM4NDk3Njdf/Sony_TEN3HD.jpeg",
-          "title": "SONY TEN 3"
-        },
-        {
-          "description": "SONY SPORTS TEN 4 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "https://tataplay.slivcdn.com/hls/live/2020589-b/ten4hd/master_3500.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "368",
-          "thumb": "https://od.lk/s/NDZfODM4NDk3Njlf/Sony_TEN4HD.jpeg",
-          "title": "SONY TEN 4"
-        },
-         {
-          "description": "SONY SPORTS TEN 5 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "369",
-          "thumb": "https://od.lk/s/NDZfODM4NDk3NzFf/Sony_TEN5HD.jpeg",
-          "title": "SONY TEN 5"
-        },
+          "number": "478",
+          "thumb": "https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
+          "title": "SPORTSNET TV"
+              },  
         {
           "description": "L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
@@ -404,7 +482,6 @@
           "thumb": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
           "title": "ESPN DEPORTE"
         },
-        
          {
           "description": "ESPN NEWS Sports tv est une chaine de sports.",
           "sources": [
@@ -678,7 +755,7 @@
         {
           "description": "TSN 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "http://212.102.60.231/TSN_1/index.m3u8"
+            "https://fl7.moveonjoy.com/TSN_1/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "418",
@@ -688,7 +765,7 @@
         {
           "description": "TSN 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "http://212.102.60.231/TSN_2/index.m3u8"
+            "https://fl7.moveonjoy.com/TSN_2/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "419",
@@ -698,7 +775,7 @@
          {
           "description": "TSN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "http://212.102.60.231/TSN_3/index.m3u8"
+            "https://fl7.moveonjoy.com/TSN_3/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "420",
@@ -708,7 +785,7 @@
         {
           "description": "TSN 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "http://212.102.60.231/TSN_4/index.m3u8"
+            "https://fl7.moveonjoy.com/TSN_4/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "421",
@@ -718,7 +795,7 @@
          {
           "description": "TSN 5 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "http://212.102.60.231/TSN_5/index.m3u8"
+            "https://fl7.moveonjoy.com/TSN_5/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "422",
@@ -872,7 +949,64 @@
 
 
 
+// TNS 1-2-3-4-5
+http://212.102.60.231/TSN_1/index.m3u8 
+http://212.102.60.231/TSN_2/index.m3u8 
+http://212.102.60.231/TSN_3/index.m3u8 
+http://212.102.60.231/TSN_4/index.m3u8 
+http://212.102.60.231/TSN_5/index.m3u8
 
+
+    {
+          "description": "SONY SPORTS TEN 1 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/master_3500.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "365",
+          "thumb": "https://od.lk/s/NDZfODM4NDk3NjNf/Sony_TEN1HD.jpeg",
+          "title": "SONY TEN 1"
+        },
+         {
+          "description": "SONY SPORTS TEN 2 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://tataplay.slivcdn.com/hls/live/2020434-b/TEN2HD/master_3500.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "366",
+          "thumb": "https://od.lk/s/NDZfODM4NDk3NjVf/Sony_TEN2HD.jpeg",
+          "title": "SONY TEN 2"
+        },
+        {
+          "description": "SONY SPORTS TEN 3 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master_3500.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "367",
+          "thumb": "https://od.lk/s/NDZfODM4NDk3Njdf/Sony_TEN3HD.jpeg",
+          "title": "SONY TEN 3"
+        },
+        {
+          "description": "SONY SPORTS TEN 4 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://tataplay.slivcdn.com/hls/live/2020589-b/ten4hd/master_3500.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "368",
+          "thumb": "https://od.lk/s/NDZfODM4NDk3Njlf/Sony_TEN4HD.jpeg",
+          "title": "SONY TEN 4"
+        },
+         {
+          "description": "SONY SPORTS TEN 5 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "369",
+          "thumb": "https://od.lk/s/NDZfODM4NDk3NzFf/Sony_TEN5HD.jpeg",
+          "title": "SONY TEN 5"
+        },
 
  {
           "description": "ARENA PREMIUM 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
