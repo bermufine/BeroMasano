@@ -15,6 +15,16 @@
           "title": "WWE WRISTLING"
           },
           {
+          "description": "Strongman Champion's League la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODcwMzc5Njhf/strongmantv.jpg",
+          "title": "STRONGMAN TV"
+          },
+          {
           "description": "Premiere Sports 1 la chaine sportive qui se focalise au championnat international...",
           "sources": [
             "https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8"
