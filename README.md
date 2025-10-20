@@ -7,7 +7,7 @@
            {
           "description": "WWE TV la chaine sportive qui se focalise au combats..",
           "sources": [
-            "http://fl7.moveonjoy.com/WWE/index.m3u8"
+            "http://fl41.moveonjoy.com/WWE/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "929",
@@ -157,7 +157,7 @@
         {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
-            "http://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8"
+            "http://fl41.moveonjoy.com/BEIN_SPORTS/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "372",
@@ -347,7 +347,7 @@
               {
           "description": "NFL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8"
+            "https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "939",
@@ -357,7 +357,7 @@
               {
           "description": "HNL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8"
+            "https://fl41.moveonjoy.com/NHL_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "940",
@@ -447,7 +447,7 @@
          {
           "description": "SPORTSMAN CHANNEL SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
+            "https://fl41.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "941",
@@ -457,7 +457,7 @@
               {
           "description": "SportsNet New York  SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/SNY/index.m3u8"
+            "https://fl41.moveonjoy.com/SNY/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "942",
@@ -487,7 +487,7 @@
         {
           "description": "ESPN DEPORTE Sports tv est une chaine de sports.",
           "sources": [
-            "https://fl7.moveonjoy.com/ESPN_U/index.m3u8"
+            "https://fl41.moveonjoy.com/ESPN_U/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "388",
@@ -497,7 +497,7 @@
          {
           "description": "ESPN NEWS Sports tv est une chaine de sports.",
           "sources": [
-            "https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8"
+            "https://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "943",
@@ -517,7 +517,7 @@
         {
           "description": "CBS SPORTS TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+            "https://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "944",
@@ -527,7 +527,7 @@
         {
           "description": "Fox SPORTS 1 TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8"
+            "https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "945",
@@ -537,7 +537,7 @@
          {
           "description": "FOX SPORTS 1 TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
+            "http://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "427",
@@ -577,7 +577,7 @@
         {
           "description": "NBA TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-          "https://fl7.moveonjoy.com/NBA_TV/index.m3u8"
+          "https://fl41.moveonjoy.com/NBA_TV/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "946",
@@ -587,7 +587,7 @@
         {
           "description": "Golf TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "https://fl7.moveonjoy.com/GOLF/index.m3u8"
+            "https://fl41.moveonjoy.com/GOLF/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "947",
@@ -637,7 +637,7 @@
         {
           "description": "MLB Network TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-          "https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8"
+          "https://fl41.moveonjoy.com/MLB_NETWORK/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "948",
@@ -657,7 +657,7 @@
         {
           "description": "FanDuel Sports Network tv est une chaine de sports.",
           "sources": [
-            "https://fl7.moveonjoy.com/PAC_12/index.m3u8"
+            "https://fl41.moveonjoy.com/PAC_12/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "949",
@@ -777,7 +777,7 @@
         {
           "description": "TSN 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/TSN_1/index.m3u8"
+            "https://fl41.moveonjoy.com/TSN_1/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "418",
@@ -787,7 +787,7 @@
         {
           "description": "TSN 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/TSN_2/index.m3u8"
+            "https://fl41.moveonjoy.com/TSN_2/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "419",
@@ -797,7 +797,7 @@
          {
           "description": "TSN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/TSN_3/index.m3u8"
+            "https://fl41.moveonjoy.com/TSN_3/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "420",
@@ -807,7 +807,7 @@
         {
           "description": "TSN 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/TSN_4/index.m3u8"
+            "https://fl41.moveonjoy.com/TSN_4/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "421",
@@ -817,7 +817,7 @@
          {
           "description": "TSN 5 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "https://fl7.moveonjoy.com/TSN_5/index.m3u8"
+            "https://fl41.moveonjoy.com/TSN_5/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "422",
@@ -957,7 +957,7 @@
          {
           "description": "WWE TV la chaine sportive qui se focalise au combats..",
           "sources": [
-            "http://fl7.moveonjoy.com/WWE/index.m3u8"
+            "http://fl41.moveonjoy.com/WWE/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "929",
