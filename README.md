@@ -4,8 +4,18 @@
     {
       "name": "Movies",
       "videos": [
+            {
+          "description": "WWE TV la chaine sportive qui se focalise au combau championnat international..ats..",
+          "sources": [
+            "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "928",
+          "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
+          "title": "NW SPORT 1"
+          },
            {
-          "description": "WWE TV la chaine sportive qui se focalise au combats..",
+          "description": "WWE TV la chaine sportive qui se focalise au combats",
           "sources": [
             "http://fl1.moveonjoy.com/WWE/index.m3u8"
           ],
@@ -954,15 +964,15 @@
           "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
           "title": "LUZILANDIA"
         },
-         {
-          "description": "WWE TV la chaine sportive qui se focalise au combats..",
+        {
+          "description": "WWE TV la chaine sportive qui se focalise au combau championnat international..ats..",
           "sources": [
-            "http://fl1.moveonjoy.com/WWE/index.m3u8"
+            "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "929",
-          "thumb": "https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
-          "title": "WWE WRISTLING"
+          "number": "928",
+          "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
+          "title": "NW SPORT 1"
           }
       ]
     }
