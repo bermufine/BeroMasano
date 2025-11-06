@@ -5,7 +5,7 @@
       "name": "Movies",
       "videos": [
             {
-          "description": "WWE TV la chaine sportive qui se focalise au combau championnat international..ats..",
+          "description": "New World Sport est la chaine sportive qui se focalise au championnat international.",
           "sources": [
             "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
           ],
@@ -965,7 +965,7 @@
           "title": "LUZILANDIA"
         },
         {
-          "description": "WWE TV la chaine sportive qui se focalise au combau championnat international..ats..",
+          "description": "New World Sport est la chaine sportive qui se focalise au championnat international.",
           "sources": [
             "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
           ],
@@ -973,7 +973,7 @@
           "number": "928",
           "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
           "title": "NW SPORT 1"
-          }
+        }
       ]
     }
   ]
