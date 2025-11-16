@@ -75,7 +75,7 @@
           "title": "PREMIERE SPORTS 5"
           },
           {
-          "description": "American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres"",
+          "description": "American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
           "sources": [
             "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8"
           ],
