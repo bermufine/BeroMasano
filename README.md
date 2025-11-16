@@ -275,34 +275,24 @@
           "title": "RMC 2"
         },
         {
-          "description": "Zigo SPORTS 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "description": "After Foot est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "https://tvsen6.aynaott.com/btSport1/index.m3u8"
+            "https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "934",
-          "thumb": "https://od.lk/s/NDZfODY5ODc0NDVf/ziggo1.jpg",
-          "title": "ZIGO SPORTS 1"
+          "thumb": "https://od.lk/s/NDZfODg3OTE5NDBf/afterFoottv.jpg",
+          "title": "AFTER FOOT"
         },
         {
-          "description": "Zigo SPORTS 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "description": "Bordon tv Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8"
+            "https://srv.webtvmanager.fr:3225/stream/play.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "935",
-          "thumb": "https://od.lk/s/NDZfODY5ODc0NDZf/ziggo2.png",
-          "title": "ZIGO SPORTS 2"
-        },
-        {
-          "description": "Zigo SPORTS 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "936",
-          "thumb": "https://od.lk/s/NDZfODY5ODc0NDdf/ziggo3.png",
-          "title": "ZIGO SPORTS 3"
+          "thumb": "https://od.lk/s/NDZfODg3OTIwOTNf/BordoSport.jpg",
+          "title": "BORDO SPORTS"
         },
         {
           "description": "COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
