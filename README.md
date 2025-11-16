@@ -325,6 +325,46 @@
           "title": "X-SPORT"
         },
         {
+          "description": "L'EQUIPE LIVE 21 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ZRys_pzWwmbGThDxT8QwC4sY3ddhJHyie4F-nXY_St4ojCFsy2YAFO8Ri-hrXWMmPNl8SH0Tg4MRPvCHvUd24dbbRllWtaXbHeBbw44EjKzxHhnC4tP6IR-4D6PiMSBz)/cloud/3/x2lefik/d/live-1080.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "383",
+          "thumb": "https://od.lk/s/NDZfODg3ODkzMTVf/Equipe.png",
+          "title": "L'EQUIPE 21"
+        },
+         {
+          "description": "L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive1.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "383",
+          "thumb": "https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
+          "title": "L'EQUIPE LIVE 1"
+        },
+        {
+          "description": "L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive2.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "384",
+          "thumb": "https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
+          "title": "L'EQUIPE LIVE 2"
+        },
+        {
+          "description": "L'EQUIPE LIVE 3 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive3.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "384",
+          "thumb": "https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
+          "title": "L'EQUIPE LIVE 3"
+        },
+        {
           "description": "TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "https://tvsen6.aynaott.com/btSport1/index.m3u8"
@@ -474,26 +514,6 @@
           "thumb": "https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
           "title": "SPORTSNET TV"
         },  
-        {
-          "description": "L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "https://jmp2.uk/sam-FRBC4200004XH.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "383",
-          "thumb": "https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
-          "title": "L'EQUIPE LIVE 1"
-        },
-        {
-          "description": "L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "https://jmp2.uk/sam-FRBC4200005X2.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "384",
-          "thumb": "https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
-          "title": "L'EQUIPE LIVE 2"
-        },
         {
           "description": "ESPN DEPORTE Sports tv est une chaine de sports.",
           "sources": [
