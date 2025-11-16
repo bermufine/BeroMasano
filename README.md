@@ -327,7 +327,7 @@
         {
           "description": "L'EQUIPE LIVE 21 TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ZRys_pzWwmbGThDxT8QwC4sY3ddhJHyie4F-nXY_St4ojCFsy2YAFO8Ri-hrXWMmPNl8SH0Tg4MRPvCHvUd24dbbRllWtaXbHeBbw44EjKzxHhnC4tP6IR-4D6PiMSBz)/cloud/3/x2lefik/d/live-1080.m3u8"
+            "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "383",
@@ -361,8 +361,28 @@
           ],
           "subtitle": "All Channels",
           "number": "384",
-          "thumb": "https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njdf/equipe3.png,
           "title": "L'EQUIPE LIVE 3"
+        },
+          {
+          "description": "L'EQUIPE LIVE 4 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive4.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "384",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "L'EQUIPE LIVE 4"
+        },
+         {
+          "description": "L'EQUIPE LIVE 5 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive5.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "384",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "L'EQUIPE LIVE 5"
         },
         {
           "description": "TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
