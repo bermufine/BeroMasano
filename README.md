@@ -361,7 +361,7 @@
           ],
           "subtitle": "All Channels",
           "number": "384",
-          "thumb": "https://od.lk/s/NDZfODg3OTE1Njdf/equipe3.png,
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njdf/equipe3.png",
           "title": "L'EQUIPE LIVE 3"
         },
           {
