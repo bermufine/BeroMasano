@@ -361,7 +361,7 @@
           ],
           "subtitle": "All Channels",
           "number": "984",
-          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "thumb": "https://od.lk/s/NDZfODkwMzQyNjFf/skyfootball.png",
           "title": "SKY FOOTBALL"
         },
         {
@@ -371,7 +371,7 @@
           ],
           "subtitle": "All Channels",
           "number": "984",
-          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "thumb": "https://od.lk/s/NDZfODkwMzQyMjdf/skyliga.jpg",
           "title": "SKY LIGA"
         },
         {
@@ -391,7 +391,7 @@
           ],
           "subtitle": "All Channels",
           "number": "984",
-          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "thumb": "https://od.lk/s/NDZfODkwMzQzNjVf/skymainEvent.png",
           "title": "SKY MAIN EVENT"
         },
          {
@@ -401,7 +401,7 @@
           ],
           "subtitle": "All Channels",
           "number": "984",
-          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "thumb": "https://od.lk/s/NDZfODkwMzQzOTNf/skycricket.jpg",
           "title": "SKY CRICKET"
         },
          {
@@ -411,7 +411,7 @@
           ],
           "subtitle": "All Channels",
           "number": "984",
-          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "thumb": "https://od.lk/s/NDZfODkwMzQ0NDlf/skymixtv.png",
           "title": "SKY MIXT"
         },
          {
