@@ -365,6 +365,96 @@
           "title": "L'EQUIPE LIVE 5"
         },
         {
+          "description": "SKY FOOTBALL TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/500a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY FOOTBALL"
+        },
+        {
+          "description": "SKY SPORT LIGA TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://181.78.106.127:9000/play/ca030/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY LIGA"
+        },
+        {
+          "description": "SKY SPORT FC (Fan Club) TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/501a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY LIGA"
+        },
+        {
+          "description": "SKY SPORT MAIN EVENT TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/502a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY MAIN EVENT"
+        },
+         {
+          "description": "SKY SPORT CRICKET TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/503a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY CRICKET"
+        },
+         {
+          "description": "SKY SPORT MIXT TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/507a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY MIXT"
+        },
+         {
+          "description": "SKY SPORT FI TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/508a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY FI"
+        },
+        {
+          "description": "SKY SPORT CBC TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/504a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY CBC"
+        },
+        {
+          "description": "SKY SPORT NEWS TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://178.33.239.54:8080/506a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+          "title": "SKY NEWS"
+        },
+        {
           "description": "Fifa Plus est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
