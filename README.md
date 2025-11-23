@@ -392,7 +392,7 @@
           "subtitle": "All Channels",
           "number": "984",
           "thumb": "https://od.lk/s/NDZfODkwMzQ4MDlf/skysport.jpg",
-          "title": "SKY FC"
+          "title": "SKY FAN CLUB"
         },
         {
           "description": "SKY SPORT MAIN EVENT TV est la chaine sportive qui se focalise aux Sports..",
@@ -508,14 +508,7 @@
           "number": "651",
           "thumb": "https://od.lk/s/NDZfODg3NDMzMzZf/FIFAUSA.png",
           "title": "FIFA + USA"
-        }
-      ]
-    }
-  ]
-}
-
-
-        
+        },
         {
           "description": "PTV SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
@@ -581,7 +574,12 @@
           "number": "943",
           "thumb": "https://od.lk/s/NDZfODkwMzQwMDZf/espnNewes.png",
           "title": "ESPN NEWS"
-        },
+        }
+      ]
+    }
+  ]
+}
+
         {
           "description": "NFL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
