@@ -754,11 +754,7 @@
           "number": "417",
           "thumb": "https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
           "title": "REAL MADRID TV"
-        }
-      ]
-    }
-  ]
-}
+        },
         {
           "description": "Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....",
           "sources": [
@@ -788,7 +784,12 @@
           "number": "946",
           "thumb": "https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
           "title": "NBA TV"
-        },
+        }
+      ]
+    }
+  ]
+}
+
         {
           "description": "Golf TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
