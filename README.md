@@ -756,41 +756,6 @@
           "title": "REAL MADRID TV"
         },
         {
-          "description": "Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....",
-          "sources": [
-            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545"
-          ],
-          "subtitle": "All Channels",
-          "number": "386",
-          "thumb": "https://od.lk/s/M18yNjUzMDI0OTlf/madrid",
-          "title": "REAL MADRID"
-        },
-        {
-          "description": "TNT Sport " TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-          "http://178.33.239.54:8080/511a/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "946",
-          "thumb": "https://od.lk/s/NDZfODkwMzM4MjBf/tntsports3.png",
-          "title": "TNT SPORT 3"
-        },
-        {
-          "description": "NBA TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-          "https://fl1.moveonjoy.com/NBA_TV/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "946",
-          "thumb": "https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
-          "title": "NBA TV"
-        }
-      ]
-    }
-  ]
-}
-
-        {
           "description": "Golf TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
             "https://fl1.moveonjoy.com/GOLF/index.m3u8"
@@ -809,9 +774,7 @@
           "number": "389",
           "thumb": "https://od.lk/s/NDZfNjA1OTEyMTJf/turkmenistan.png",
           "title": "TURKMENISTAN SPORT"
-        }
- 
-
+        },
         {
           "description": "ARY SPORT tv est une chaine de sports.",
           "sources": [
@@ -1166,6 +1129,37 @@
     }
   ]
 }
+
+  {
+          "description": "Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....",
+          "sources": [
+            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545"
+          ],
+          "subtitle": "All Channels",
+          "number": "386",
+          "thumb": "https://od.lk/s/M18yNjUzMDI0OTlf/madrid",
+          "title": "REAL MADRID"
+        },
+        {
+          "description": "TNT Sport " TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+          "http://178.33.239.54:8080/511a/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "946",
+          "thumb": "https://od.lk/s/NDZfODkwMzM4MjBf/tntsports3.png",
+          "title": "TNT SPORT 3"
+        },
+        {
+          "description": "NBA TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+          "https://fl1.moveonjoy.com/NBA_TV/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "946",
+          "thumb": "https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
+          "title": "NBA TV"
+        }
 
 
 
