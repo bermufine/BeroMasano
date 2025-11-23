@@ -353,15 +353,7 @@
           "number": "384",
           "thumb": "https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
           "title": "L'EQUIPE LIVE 4"
-        }
-      ]
-    }
-  ]
-}
-
-
-
-        
+        },
         {
           "description": "SKY FOOTBALL TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
@@ -516,7 +508,14 @@
           "number": "651",
           "thumb": "https://od.lk/s/NDZfODg3NDMzMzZf/FIFAUSA.png",
           "title": "FIFA + USA"
-        },
+        }
+      ]
+    }
+  ]
+}
+
+
+        
         {
           "description": "PTV SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
