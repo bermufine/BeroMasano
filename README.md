@@ -574,13 +574,8 @@
           "number": "943",
           "thumb": "https://od.lk/s/NDZfODkwMzQwMDZf/espnNewes.png",
           "title": "ESPN NEWS"
-        }
-      ]
-    }
-  ]
-}
-
-        {
+        },
+         {
           "description": "NFL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8"
@@ -729,7 +724,14 @@
           "number": "945",
           "thumb": "https://od.lk/s/NDZfODkwMzM4OTRf/foxvivo.jpg",
           "title": "VIVO FOX SPORT"
-        },
+        }
+      ]
+    }
+  ]
+}
+
+
+        
         {
           "description": "TV BAR TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
