@@ -365,6 +365,16 @@
           "title": "SKY FOOTBALL"
         },
         {
+          "description": "SKY SPORT LIGA TV est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://190.92.10.66:4000/play/a001/index.m3u8"
+          ],
+          "subtitle": "All Channel",
+          "number": "399",
+          "thumb": "https://od.lk/s/NDZfODkwMzQyMjdf/skyliga.jpg",
+          "title": "SKY LA LIGA"
+        },
+        {
           "description": "SKY SPORT LIGA TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
             "http://181.78.106.127:9000/play/ca030/index.m3u8"
@@ -555,7 +565,7 @@
           "thumb": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
           "title": "ESPN DEPORTE"
         },
-           {
+        {
           "description": "ESPN NEWS Sports tv est une chaine de sports.",
           "sources": [
             "https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8"
@@ -866,16 +876,6 @@
           "title": "SPORT ITALIA 7"
         },
         {
-          "description": "ESPN Deporte tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://190.92.10.66:4000/play/a003/index.m3u8"
-          ],
-          "subtitle": "All Channel",
-          "number": "399",
-          "thumb": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
-          "title": "ESPN DEPORTE"
-        },
-        {
           "description": "EPT Sports 1 tv est une chaine de sports.",
           "sources": [
             "https://tvsen6.aynaott.com/ERTSports1/index.m3u8"
@@ -1025,7 +1025,7 @@
           "thumb": "https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg",
           "title": "LAX NETWORK"
         }, 
-                {
+        {
           "description": "Sports TV est la chaine sportive qui se focalise aux sports general international.",
           "sources": [
             "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
