@@ -628,6 +628,78 @@
           "title": "CANAL+ FOOT 2"
         },
         {
+          "description": "DAZN Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/2980952434/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDJf/DAZN.png",
+          "title": "DAZN SPORTS"
+        },
+        {
+          "description": "DAZN Sports 1 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/2267295660/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDNf/DAZN1.png",
+          "title": "DAZN SPORTS 1"
+        },
+        {
+          "description": "DAZN Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/3579549301/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
+          "title": "DAZN SPORTS 2"
+        },
+        {
+          "description": "DAZN Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1389052779/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDVf/DAZN3.png",
+          "title": "DAZN SPORTS 3"
+        },
+        {
+          "description": "DAZN Sports 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/2923762838/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDZf/DAZN4.png",
+          "title": "DAZN SPORTS 4"
+        },
+        {
+          "description": "DAZN Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1389052779/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDdf/DAZN5.png",
+          "title": "DAZN SPORTS 5"
+        },
+        {
+          "description": "DAZN Sports 6 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1059241617/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDhf/DAZN6.png",
+          "title": "DAZN SPORTS 6"
+        },
+        {
+          "description": "DAZN Sports 7 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/2936413245/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDJf/DAZN.png",
+          "title": "DAZN SPORTS 7"
+        },
+        {
           "description": "PTV SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "https://tvsen5.aynaott.com/PtvSports/index.m3u8"
