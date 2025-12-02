@@ -25,6 +25,16 @@
           "title": "WWE WRISTLING"
           },
           {
+          "description": "3D Sports est la chaine sportive qui se focalise au sports international...",
+          "sources": [
+            "https://stream.berosat.live:19360/sports-3d/sports-3d.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "699",
+          "thumb": "https://od.lk/s/NDZfODkyNDEzNDJf/3dSports.jpg",
+          "title": "3D SPORTS"
+          },
+          {
           "description": "Strongman Champion's League la chaine sportive qui se focalise au championnat international...",
           "sources": [
             "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8"
