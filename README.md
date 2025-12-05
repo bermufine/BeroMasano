@@ -25,7 +25,7 @@
           "title": "WWE WRISTLING"
           },
           {
-          "description": "3D Sports est la chaine sportive qui se focalise au sports international...",
+          "description": "3D Sports est la chaine sportive qui se focalise au sports international, footbal, Boxe, combats, natation, tenis, rugby et autres...",
           "sources": [
             "https://stream.berosat.live:19360/sports-3d/sports-3d.m3u8"
           ],
