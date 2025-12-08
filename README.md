@@ -1316,6 +1316,56 @@
           "title": "LUZILANDIA"
         },
         {
+          "description": "Sports 1 est une chaine du Sports du brasil.",
+          "sources": [
+            "https://allinonereborn.online/mix.m3u8/live4.php?id=91624.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "SPORTS 1"
+        },
+        {
+          "description": "Sports 2 est une chaine du Sports du brasil.",
+          "sources": [
+            "https://allinonereborn.online/mix.m3u8/live4.php?id=10506.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "SPORTS 2"
+        },
+        {
+          "description": "Sports 3 est une chaine du Sports du brasil.",
+          "sources": [
+            "https://allinonereborn.online/mix.m3u8/live4.php?id=10518.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "SPORTS 3"
+        },
+        {
+          "description": "Sports 4 est une chaine du Sports du brasil.",
+          "sources": [
+            "https://allinonereborn.online/mix.m3u8/live4.php?id=10517.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "SPORTS 4"
+        },
+        {
+          "description": "Sports 5 est une chaine du Sports du brasil.",
+          "sources": [
+            " https://allinonereborn.online/mix.m3u8/live4.php?id=10511"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "SPORTS 5"
+        },
+        {
           "description": "New World Sport est la chaine sportive qui se focalise au championnat international.",
           "sources": [
             "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
