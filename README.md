@@ -5,6 +5,35 @@
       "name": "Movies",
       "videos": [
           {
+          "description": "SKY Bundesliga TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://200.229.147.142:8000/play/a05b/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "989",
+          "thumb": "https://od.lk/s/NDZfODk5NjEwMDFf/skybundesliga.jpg",
+          "title": "SKY BUNDESLIGA"
+        },
+        {
+          "description": "SKY Laliga TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://200.229.147.142:8000/play/a03h/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "999",
+          "thumb": "https://od.lk/s/NDZfODkwMzQyMjdf/skyliga.jpg",
+          "title": "SKY LALIGA"
+        },
+         {
+          "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://145.239.5.177/322/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
+          "title": "CANAL+ SPORT"
+        },
+        {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
             "https://vavoo.to/play/1490095787/index.m3u8"
@@ -34,6 +63,15 @@
           "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
           "title": "NW SPORT 1"
           },
+           {
+          "description": "Ziggo Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://145.239.5.177/349/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "650",
+          "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
+          "title": "ZIGGO SPORT 5"
+        },
           {
           "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
@@ -53,16 +91,6 @@
           "number": "929",
           "thumb": "https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
           "title": "WWE WRISTLING"
-          },
-          {
-          "description": "3D Sports est la chaine sportive qui se focalise au sports international, footbal, Boxe, combats, natation, tenis, rugby et autres...",
-          "sources": [
-            "https://stream.berosat.live:19360/sports-3d/sports-3d.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "699",
-          "thumb": "https://od.lk/s/NDZfODkyNDEzNDJf/3dSports.jpg",
-          "title": "3D SPORTS"
           },
           {
           "description": "Strongman Champion's League la chaine sportive qui se focalise au championnat international...",
@@ -236,7 +264,7 @@
         },
          {
           "description": "Canal+ Foot est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/3010946034/index.m3u8"
+          "sources": [ "http://145.239.5.177/322/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "651",
@@ -1256,64 +1284,14 @@
           "title": "LUZILANDIA"
         },
         {
-          "description": "Sports 1 est une chaine du Sports du brasil.",
+          "description": "SKY Bundesliga TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "https://allinonereborn.online/mix.m3u8/live4.php?id=91624.m3u8"
+            "http://200.229.147.142:8000/play/a05b/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
-          "title": "SPORTS 1"
-        },
-        {
-          "description": "Sports 2 est une chaine du Sports du brasil.",
-          "sources": [
-            "https://allinonereborn.online/mix.m3u8/live4.php?id=10506.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
-          "title": "SPORTS 2"
-        },
-        {
-          "description": "Sports 3 est une chaine du Sports du brasil.",
-          "sources": [
-            "https://allinonereborn.online/mix.m3u8/live4.php?id=10518.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
-          "title": "SPORTS 3"
-        },
-        {
-          "description": "Sports 4 est une chaine du Sports du brasil.",
-          "sources": [
-            "https://allinonereborn.online/mix.m3u8/live4.php?id=10517.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
-          "title": "SPORTS 4"
-        },
-        {
-          "description": "Sports 5 est une chaine du Sports du brasil.",
-          "sources": [
-            " https://allinonereborn.online/mix.m3u8/live4.php?id=10511"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
-          "title": "SPORTS 5"
-        },
-        {
-          "description": "New World Sport est la chaine sportive qui se focalise au championnat international.",
-          "sources": [
-            "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "928",
-          "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
-          "title": "NW SPORT 1"
+          "number": "989",
+          "thumb": "https://od.lk/s/NDZfODk5NjEwMDFf/skybundesliga.jpg",
+          "title": "SKY BUNDESLIGA"
         }
       ]
     }
