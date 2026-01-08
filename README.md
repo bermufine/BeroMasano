@@ -24,25 +24,45 @@
           "thumb": "https://od.lk/s/NDZfOTAwNzU1MTdf/mathtwo.png",
           "title": "MATCH 2"
         },
-          {
-          "description": "SKY Bundesliga TV est la chaine sportive qui se focalise aux Sports..",
+        {
+          "description": "MATCH 3 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "http://200.229.147.142:8000/play/a05b/index.m3u8"
+            "http://cdntv.online/low/9mlxywika2/57.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
+          "title": "MATCH 3"
+        },
+        {
+          "description": "Setanta 1 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://2.57.217.85:8000/play/a008/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "982",
+          "thumb": "https://od.lk/s/NDZfOTAwNzY2NDhf/setantaone.png",
+          "title": "SETANTA 1"
+        },
+        {
+          "description": "Setanta 2 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "909",
+          "thumb": "https://od.lk/s/NDZfOTAwNzY2NDlf/setantatwo.png",
+          "title": "SETANTA 2"
+        },
+          {
+          "description": "Setanta Sports TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://2.57.217.85:8000/play/a05m/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "989",
-          "thumb": "https://od.lk/s/NDZfODk5NjEwMDFf/skybundesliga.jpg",
-          "title": "SKY BUNDESLIGA"
-        },
-        {
-          "description": "SKY Laliga TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "http://190.92.10.66:4000/play/a001/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "999",
-          "thumb": "https://od.lk/s/NDZfODkwMzQyMjdf/skyliga.jpg",
-          "title": "SKY LALIGA"
+          "thumb": "https://od.lk/s/NDZfOTAwNzY3OThf/setantasports.png",
+          "title": "SETANTA SPORT"
         },
          {
           "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
