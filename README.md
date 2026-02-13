@@ -52,7 +52,7 @@
           "subtitle": "All Channels",
           "number": "000",
           "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "ARENA SPORT 1"
+          "title": "ARENA-S 1"
         },
         {
           "description": "Arena Sport 2 TV est une chaine du Sports",
@@ -62,7 +62,7 @@
           "subtitle": "All Channels",
           "number": "000",
           "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "ARENA SPORT 2"
+          "title": "ARENA-S 2"
         },
         {
           "description": "Arena Sport 3 TV est une chaine du Sports",
@@ -72,7 +72,27 @@
           "subtitle": "All Channels",
           "number": "000",
           "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "ARENA SPORT 3"
+          "title": "ARENA-S 3"
+        },
+         {
+          "description": "Arena Sport 4 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1112&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "ARENA-S 4"
+        },
+        {
+          "description": "Arena Sport 5 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1111&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "ARENA-S 5"
         },
         {
           "description": "Setanta 1 TV est la chaine sportive qui se focalise aux Sports..",
