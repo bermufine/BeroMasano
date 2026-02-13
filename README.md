@@ -1396,7 +1396,7 @@
          {
           "description": "Luzilandia TV est une chaine du Sports du brasil.",
           "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=ts"
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=m3u8"
           ],
           "subtitle": "All Channels",
           "number": "437",
@@ -1407,6 +1407,16 @@
           "description": "Luzilandia TV est une chaine du Sports du brasil.",
           "sources": [
             "http://yddfknmd.vip/live/YDDMDFKN_381200/LGQyqCue/114052.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "437",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "LUZILANDIA"
+        },
+          {
+          "description": "Luzilandia TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://103.121.48.47/live/play/ZVdkWlUwTXpia1I2TjNGSVYzVklibHBhS3poUk1UWnVWVkF6VldWVlIydGhTbTVHYjNkNFFtNUxVVDA9/1113"
           ],
           "subtitle": "All Channels",
           "number": "437",
