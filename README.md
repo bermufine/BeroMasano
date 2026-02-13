@@ -5,6 +5,16 @@
       "name": "Movies",
       "videos": [
           {
+          "description": "Super Sport Football TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SUPER SPORT FOOTBALL"
+        },
+        {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://cdntv.online/low/9mlxywika2/55.m3u8"
@@ -14,7 +24,7 @@
           "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
           "title": "MATCH ARENA"
         },
-         {
+        {
           "description": "MATCH 2 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://cdntv.online/low/9mlxywika2/56.m3u8"
@@ -33,6 +43,36 @@
           "number": "434",
           "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
           "title": "MATCH 3"
+        },
+        {
+          "description": "Arena Sport 1 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1115&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "ARENA SPORT 1"
+        },
+        {
+          "description": "Arena Sport 2 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1114&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "ARENA SPORT 2"
+        },
+        {
+          "description": "Arena Sport 3 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1113&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "ARENA SPORT 3"
         },
         {
           "description": "Setanta 1 TV est la chaine sportive qui se focalise aux Sports..",
@@ -54,7 +94,7 @@
           "thumb": "https://od.lk/s/NDZfOTAwNzY2NDlf/setantatwo.png",
           "title": "SETANTA 2"
         },
-          {
+        {
           "description": "Setanta Sports TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
             "http://2.57.217.85:8000/play/a05m/index.m3u8"
@@ -86,7 +126,7 @@
          {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
-            "http://178.33.239.54:8080/512/index.m3u8"
+            "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=312095&extension=m3u8"
           ],
           "subtitle": "All Channels",
           "number": "372",
@@ -1387,16 +1427,6 @@
           "description": "Luzilandia TV est une chaine du Sports du brasil.",
           "sources": [
             "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "437",
-          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
-          "title": "LUZILANDIA"
-        },
-         {
-          "description": "Luzilandia TV est une chaine du Sports du brasil.",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=m3u8"
           ],
           "subtitle": "All Channels",
           "number": "437",
