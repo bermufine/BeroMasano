@@ -390,11 +390,7 @@
           "number": "434",
           "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
           "title": "MATCH ARENA"
-        },
-      
-
-
-        
+        },        
         {
           "description": "RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
           "sources": [
@@ -1391,6 +1387,26 @@
           "description": "Luzilandia TV est une chaine du Sports du brasil.",
           "sources": [
             "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "437",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "LUZILANDIA"
+        },
+         {
+          "description": "Luzilandia TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=ts"
+          ],
+          "subtitle": "All Channels",
+          "number": "437",
+          "thumb": "https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+          "title": "LUZILANDIA"
+        },
+        {
+          "description": "Luzilandia TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://yddfknmd.vip/live/YDDMDFKN_381200/LGQyqCue/114052.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "437",
