@@ -51,7 +51,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "thumb": "https://od.lk/s/NDZfOTA4OTExNzJf/ArenaSport1.png",
           "title": "ARENA-S 1"
         },
         {
