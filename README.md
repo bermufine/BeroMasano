@@ -234,55 +234,76 @@
           "title": "BEIN-S 1 EN"
         },
         {
-          "description": "New World Sport est la chaine sportive qui se focalise au championnat international.",
+          "description": "Sky  Sport 1 TV est une chaine du Sports",
           "sources": [
-            "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1108&extension=m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "928",
-          "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
-          "title": "NW SPORT 1"
-          },
-           {
-          "description": "Ziggo Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://145.239.5.177/349/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "650",
-          "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
-          "title": "ZIGGO SPORT 5"
-        },
-          {
-          "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://212.102.60.80/Infosport/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "382",
-          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
-          "title": "INFO SPORTS"
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzZf/sky1.jpg",
+          "title": "SK 1"
         },
         {
-          "description": "WWE TV la chaine sportive qui se focalise au combats",
+          "description": "Sky  Sport 2 TV est une chaine du Sports",
           "sources": [
-            "http://fl1.moveonjoy.com/WWE/index.m3u8"
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1107&extension=m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "929",
-          "thumb": "https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
-          "title": "WWE WRISTLING"
-          },
-          {
-          "description": "Strongman Champion's League la chaine sportive qui se focalise au championnat international...",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxNTNf/sk2.jpg",
+          "title": "SK 2"
+        },
+        {
+          "description": "Sky  Sport 3 TV est une chaine du Sports",
           "sources": [
-            "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8"
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1106&extension=m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODcwMzc5Njhf/strongmantv.jpg",
-          "title": "STRONGMAN TV"
-          },
-          {
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxNjNf/sk3.jpg",
+          "title": "SK 3"
+        },
+        {
+          "description": "Sky  Sport 4 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1105&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxOTRf/sk4tv.jpg",
+          "title": "SK 4"
+        },
+        {
+          "description": "Sky  Sport 5 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1104&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzVf/SK_5.webp",
+          "title": "SK 5"
+        },
+        {
+          "description": "Sky  Sport 6 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1103&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzdf/sky6.jpg",
+          "title": "SK 6"
+        },
+        {
+          "description": "Sky  Golf TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1102&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzlf/skyGolf.png",
+          "title": "SK GOLF"
+        },
+        {
           "description": "Premiere Sports 1 la chaine sportive qui se focalise au championnat international...",
           "sources": [
             "https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8"
@@ -323,76 +344,6 @@
           "title": "PREMIERE SPORTS 5"
           },
           {
-          "description": "American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
-          "sources": [
-            "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "653",
-          "thumb": "https://od.lk/s/NDZfODg2MjI2MTJf/americanNinja.jpeg",
-          "title": "NINJA WARRIOR"
-          },
-          {
-          "description": "Canal Plus Sports la chaine sportive qui se focalise au championnat international de Crickets....",
-          "sources": [
-            "https://vavoo.to/play/2391290436/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
-          "title": "CANAL+ SPORTS"
-        },
-          {
-          "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international...",
-          "sources": [
-            "https://vavoo.to/play/1058402443/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTVf/supersportspl.jpg",
-          "title": "SUPER-S SPL"
-          },
-          {
-          "description": "Super SPORT Football la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "https://vavoo.to/play/1455041575/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "SUPER-S FOOTBALL"
-        },
-        {
-          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "https://vavoo.to/play/300144653/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU0ODYzNzBf/supersporthd.jpeg",
-          "title": "SUPER SPORT"
-        },
-        {
-          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "http://145.239.5.177/566/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
-          "title": "SUPER-S SPL"
-        },
-         {
-          "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
-          "sources": [
-            "http://145.239.5.177/561/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
-          "title": "+SPORT 360"
-        },
-         {
           "description": "BEIN Sports 2 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
           "sources": [
             "http://135.125.109.73:9000/beinsport2_.m3u8"
@@ -491,6 +442,126 @@
            "number": "407",
           "thumb": "https://od.lk/s/M18yOTczMTIxMjRf/beinNine.png",
           "title": "BEIN SPORT 9"
+        },
+        {
+          "description": "Ziggo Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://145.239.5.177/349/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "650",
+          "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
+          "title": "ZIGGO SPORT 5"
+        },
+        {
+          "description": "American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
+          "sources": [
+            "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "653",
+          "thumb": "https://od.lk/s/NDZfODg2MjI2MTJf/americanNinja.jpeg",
+          "title": "NINJA WARRIOR"
+          },
+            {
+          "description": "New World Sport est la chaine sportive qui se focalise au championnat international.",
+          "sources": [
+            "https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "928",
+          "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
+          "title": "NW SPORT 1"
+          },
+          
+          {
+          "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://212.102.60.80/Infosport/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "382",
+          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
+          "title": "INFO SPORTS"
+        },
+        {
+          "description": "WWE TV la chaine sportive qui se focalise au combats",
+          "sources": [
+            "http://fl1.moveonjoy.com/WWE/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "929",
+          "thumb": "https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
+          "title": "WWE WRISTLING"
+          },
+          {
+          "description": "Strongman Champion's League la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODcwMzc5Njhf/strongmantv.jpg",
+          "title": "STRONGMAN TV"
+          },
+          {
+          "description": "Canal Plus Sports la chaine sportive qui se focalise au championnat international de Crickets....",
+          "sources": [
+            "https://vavoo.to/play/2391290436/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
+          "title": "CANAL+ SPORTS"
+        },
+          {
+          "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international...",
+          "sources": [
+            "https://vavoo.to/play/1058402443/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTVf/supersportspl.jpg",
+          "title": "SUPER-S SPL"
+          },
+          {
+          "description": "Super SPORT Football la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "https://vavoo.to/play/1455041575/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SUPER-S FOOTBALL"
+        },
+        {
+          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "https://vavoo.to/play/300144653/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0ODYzNzBf/supersporthd.jpeg",
+          "title": "SUPER SPORT"
+        },
+        {
+          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://145.239.5.177/566/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
+          "title": "SUPER-S SPL"
+        },
+         {
+          "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
+          "sources": [
+            "http://145.239.5.177/561/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
+          "title": "+SPORT 360"
         },
          {
           "description": "Canal+ Foot est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
