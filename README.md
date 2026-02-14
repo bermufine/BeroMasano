@@ -155,24 +155,24 @@
           "title": "ARENA FIGHT"
         },
         {
-          "description": "Setanta 1 TV est la chaine sportive qui se focalise aux Sports..",
+          "description": "Max Sport 1 TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "http://2.57.217.85:8000/play/a008/index.m3u8"
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558965&extension=m3u8"
           ],
           "subtitle": "All Channels",
           "number": "982",
-          "thumb": "https://od.lk/s/NDZfOTAwNzY2NDhf/setantaone.png",
-          "title": "SETANTA 1"
+          "thumb": "https://od.lk/s/NDZfOTA5MDA4MTNf/maxsport1.png",
+          "title": "MAX SPORT 1"
         },
         {
-          "description": "Setanta 2 TV est la chaine sportive qui se focalise aux Sports..",
+          "description": "Max Sport 2 TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
-            "http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8"
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558966&extension=m3u8"
           ],
           "subtitle": "All Channels",
           "number": "909",
-          "thumb": "https://od.lk/s/NDZfOTAwNzY2NDlf/setantatwo.png",
-          "title": "SETANTA 2"
+          "thumb": "https://od.lk/s/NDZfOTA5MDA4MTZf/maxsports2.png",
+          "title": "MAX SORT 2"
         },
         {
           "description": "Setanta Sports TV est la chaine sportive qui se focalise aux Sports..",
