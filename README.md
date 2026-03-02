@@ -15,6 +15,56 @@
           "title": "SUPER SPORT FOOTBALL"
         },
         {
+          "description": "Sport 1 TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://185.132.134.159:80/sport1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SPORTS 1"
+        },
+         {
+          "description": "Sport 2 TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://185.132.134.159:80/sport2/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SPORTS 2"
+        },
+         {
+          "description": "Sport 3 TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://185.132.134.159:80/sport3/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SPORTS 3"
+        },
+         {
+          "description": "Sport 4 TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://185.132.134.159:80/sport4/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SPORTS 4"
+        },
+         {
+          "description": "Sport 5 TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://185.132.134.159:80/sport6/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SPORTS 5"
+        },
+        {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://cdntv.online/low/9mlxywika2/55.m3u8"
@@ -472,8 +522,17 @@
           "thumb": "https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
           "title": "NW SPORT 1"
           },
-          
-          {
+            {
+          "description": "Sport 5 TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://185.132.134.159:80/sport5/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SPORTS 5"
+        },  
+        {
           "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "http://212.102.60.80/Infosport/index.m3u8"
