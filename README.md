@@ -4,7 +4,57 @@
     {
       "name": "Movies",
       "videos": [
-          {
+        {
+          "description": "Sport 1 TV TV est une chaine du Sports International.",
+          "sources": [
+            "http://185.132.134.159:80/sport1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODNf/sports1tv.png",
+          "title": "SPORTS 1"
+        },
+         {
+          "description": "Sport 2 TV est une chaine du Sports International..",
+          "sources": [
+            "http://185.132.134.159:80/sport2/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODRf/sports2tv.png",
+          "title": "SPORTS 2"
+        },
+         {
+          "description": "Sport 3 TV est une chaine du Sports International.",
+          "sources": [
+            "http://185.132.134.159:80/sport3/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODVf/sports3tv.png",
+          "title": "SPORTS 3"
+        },
+         {
+          "description": "Sport 4 TV est une chaine du Sports International.",
+          "sources": [
+            "http://185.132.134.159:80/sport4/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "SPORTS 4"
+        },
+         {
+          "description": "Sport 6 TV est une chaine du Sports International.",
+          "sources": [
+            "http://185.132.134.159:80/sport6/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODdf/sports6tv.png",
+          "title": "SPORTS 6"
+        },
+        {
           "description": "Super Sport Football TV est une chaine du Sports du brasil.",
           "sources": [
             "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=m3u8"
@@ -13,56 +63,6 @@
           "number": "000",
           "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
           "title": "SUPER SPORT FOOTBALL"
-        },
-        {
-          "description": "Sport 1 TV est une chaine du Sports du brasil.",
-          "sources": [
-            "http://185.132.134.159:80/sport1/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "SPORTS 1"
-        },
-         {
-          "description": "Sport 2 TV est une chaine du Sports du brasil.",
-          "sources": [
-            "http://185.132.134.159:80/sport2/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "SPORTS 2"
-        },
-         {
-          "description": "Sport 3 TV est une chaine du Sports du brasil.",
-          "sources": [
-            "http://185.132.134.159:80/sport3/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "SPORTS 3"
-        },
-         {
-          "description": "Sport 4 TV est une chaine du Sports du brasil.",
-          "sources": [
-            "http://185.132.134.159:80/sport4/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "SPORTS 4"
-        },
-         {
-          "description": "Sport 5 TV est une chaine du Sports du brasil.",
-          "sources": [
-            "http://185.132.134.159:80/sport6/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "SPORTS 5"
         },
         {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -529,7 +529,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU2MjJf/sport5tv.jpg",
           "title": "SPORTS 5"
         },  
         {
