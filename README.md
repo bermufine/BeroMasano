@@ -71,7 +71,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTZf/vsportExtra.png",
           "title": "V-SPORT EXTRAT"
         },
          {
@@ -81,7 +81,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNThf/vsportPremium.png",
           "title": "V-SPORT PREMIUM"
         },
         {
@@ -91,7 +91,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTdf/vsportFootball.png",
           "title": "V-SPORT FOOTBALL"
         },
         {
@@ -101,7 +101,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "thumb": "https://od.lk/s/NDZfOTEyNzM4OTFf/vsport1.png",
           "title": "V-SPORT 1"
         },
         {
@@ -111,7 +111,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTNf/vsport2.png",
           "title": "V-SPORT 2"
         },
         {
@@ -121,7 +121,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTRf/vsport3.png",
           "title": "V-SPORT 3"
         },
         {
@@ -131,7 +131,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTVf/vsport4.png",
           "title": "V-SPORT 4"
         },
         {
@@ -303,46 +303,6 @@
           "number": "909",
           "thumb": "https://od.lk/s/NDZfOTA5MDA4MTZf/maxsports2.png",
           "title": "MAX SORT 2"
-        },
-         {
-          "description": "Art Sport 1 HD est une chaine de télévision du sports",
-          "sources": [
-            "http://169.150.223.25/ArtSport1HD/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "372",
-          "thumb": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
-          "title": "ART SPORT 1 HD"
-        },
-        {
-          "description": "Art Sport 1 HD est une chaine de télévision du sports",
-          "sources": [
-            "http://79.127.207.193:80/ArtSport1HD/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "989",
-          "thumb": "https://od.lk/s/NDZfOTAwNzY3OThf/setantasports.png",
-          "title": "ART SPORT 1 HD"
-        },
-        {
-          "description": "Art Sport 2 HD est une chaine de télévision du sports",
-          "sources": [
-            "http://169.150.223.25/ArtSport2/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "989",
-          "thumb": "https://od.lk/s/NDZfOTAwNzY3OThf/setantasports.png",
-          "title": "ART SPORT 2 HD"
-        },
-        {
-          "description": "Art Sport 2 HD est une chaine de télévision du sports",
-          "sources": [
-            "http://79.127.207.193:80/ArtSport2/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "989",
-          "thumb": "https://od.lk/s/NDZfOTAwNzY3OThf/setantasports.png",
-          "title": "ART SPORT 2 HD"
         },
          {
           "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
