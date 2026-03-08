@@ -65,6 +65,76 @@
           "title": "SUPER SPORT FOOTBALL"
         },
         {
+          "description": "Vsport Extra TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "V-SPORT EXTRAT"
+        },
+         {
+          "description": "Vsport Premium TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294056&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "V-SPORT PREMIUM"
+        },
+        {
+          "description": "Vsport Football 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "V-SPORT FOOTBALL"
+        },
+        {
+          "description": "Vsport 1 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1109060&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "V-SPORT 1"
+        },
+        {
+          "description": "Vsport 2 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294045&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "V-SPORT 2"
+        },
+        {
+          "description": "Vsport 3 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294039&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "V-SPORT 3"
+        },
+        {
+          "description": "Vsport 4 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294042&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "V-SPORT 4"
+        },
+        {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://cdntv.online/low/9mlxywika2/55.m3u8"
@@ -204,6 +274,16 @@
           "thumb": "https://od.lk/s/NDZfOTA4OTk5NTdf/ArenaSportFight.png",
           "title": "ARENA FIGHT"
         },
+         {
+          "description": "4Football Sport TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "4FOOTBALL SPORT"
+        },
         {
           "description": "Max Sport 1 TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
@@ -224,15 +304,45 @@
           "thumb": "https://od.lk/s/NDZfOTA5MDA4MTZf/maxsports2.png",
           "title": "MAX SORT 2"
         },
-        {
-          "description": "Setanta Sports TV est la chaine sportive qui se focalise aux Sports..",
+         {
+          "description": "Art Sport 1 HD est une chaine de télévision du sports",
           "sources": [
-            "http://2.57.217.85:8000/play/a05m/index.m3u8"
+            "http://169.150.223.25/ArtSport1HD/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "372",
+          "thumb": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
+          "title": "ART SPORT 1 HD"
+        },
+        {
+          "description": "Art Sport 1 HD est une chaine de télévision du sports",
+          "sources": [
+            "http://79.127.207.193:80/ArtSport1HD/playlist.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "989",
           "thumb": "https://od.lk/s/NDZfOTAwNzY3OThf/setantasports.png",
-          "title": "SETANTA SPORT"
+          "title": "ART SPORT 1 HD"
+        },
+        {
+          "description": "Art Sport 2 HD est une chaine de télévision du sports",
+          "sources": [
+            "http://169.150.223.25/ArtSport2/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "989",
+          "thumb": "https://od.lk/s/NDZfOTAwNzY3OThf/setantasports.png",
+          "title": "ART SPORT 2 HD"
+        },
+        {
+          "description": "Art Sport 2 HD est une chaine de télévision du sports",
+          "sources": [
+            "http://79.127.207.193:80/ArtSport2/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "989",
+          "thumb": "https://od.lk/s/NDZfOTAwNzY3OThf/setantasports.png",
+          "title": "ART SPORT 2 HD"
         },
          {
           "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -272,16 +382,6 @@
           "number": "372",
           "thumb": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
           "title": "BEIN-S 1 FR"
-        },
-        {
-          "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
-          "sources": [
-            "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "372",
-          "thumb": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
-          "title": "BEIN-S 1 EN"
         },
         {
           "description": "Sky  Sport 1 TV est une chaine du Sports",
@@ -494,13 +594,31 @@
           "title": "BEIN SPORT 9"
         },
         {
-          "description": "Ziggo Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://145.239.5.177/349/index.m3u8"
+          "description": "Ziggo Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "650",
           "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
-          "title": "ZIGGO SPORT 5"
+          "title": "ZIGGO SPORT 2"
+        },
+        {
+          "description": "Ziggo Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "650",
+          "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
+          "title": "ZIGGO SPORT 3"
+        },
+        {
+          "description": "Ziggo Sport Live est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "650",
+          "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
+          "title": "ZIGGO LIVE"
         },
         {
           "description": "American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
