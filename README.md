@@ -55,16 +55,6 @@
           "title": "SPORTS 6"
         },
         {
-          "description": "Super Sport Football TV est une chaine du Sports du brasil.",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
-          "title": "SUPER SPORT FOOTBALL"
-        },
-        {
           "description": "Vsport Extra TV est une chaine du Sports International.",
           "sources": [
             "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=m3u8"
@@ -164,146 +154,9 @@
           "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
           "title": "MATCH 3"
         },
-        {
-          "description": "Arena Sport 1 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1115&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTExNzJf/ArenaSport1.png",
-          "title": "ARENA-S 1"
-        },
-        {
-          "description": "Arena Sport 2 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1114&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDNf/ArenaSport2.png",
-          "title": "ARENA-S 2"
-        },
-        {
-          "description": "Arena Sport 3 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1113&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDRf/ArenaSport3.png",
-          "title": "ARENA-S 3"
-        },
-         {
-          "description": "Arena Sport 4 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1112&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDVf/ArenaSport4.png",
-          "title": "ARENA-S 4"
-        },
-        {
-          "description": "Arena Sport 5 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1111&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDZf/ArenaSport5.png",
-          "title": "ARENA-S 5"
-        },
-        {
-          "description": "Arena Sport 6 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1110&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDdf/ArenaSport6.png",
-          "title": "ARENA-S 6"
-        },
-        {
-          "description": "Arena Sport 7 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558961&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDhf/ArenaSport7.png",
-          "title": "ARENA-S 7"
-        },
-        {
-          "description": "Arena Sport 8 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558962&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDlf/ArenaSport8.png",
-          "title": "ARENA-S 8"
-        },
-        {
-          "description": "Arena Sport 9 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558963&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMTBf/ArenaSport9.png",
-          "title": "ARENA-S 9"
-        },
-        {
-          "description": "Arena Sport 10 TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558964&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTcwMTFf/ArenaSports10.png",
-          "title": "ARENA-S 10"
-        },
-        {
-          "description": "Arena Sport Fight TV est une chaine du Sports",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558967&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA4OTk5NTdf/ArenaSportFight.png",
-          "title": "ARENA FIGHT"
-        },
-         {
-          "description": "4Football Sport TV est une chaine du Sports International.",
-          "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
-          "title": "4FOOTBALL SPORT"
-        },
-        {
-          "description": "Max Sport 1 TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558965&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "982",
-          "thumb": "https://od.lk/s/NDZfOTA5MDA4MTNf/maxsport1.png",
-          "title": "MAX SPORT 1"
-        },
-        {
-          "description": "Max Sport 2 TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558966&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "909",
-          "thumb": "https://od.lk/s/NDZfOTA5MDA4MTZf/maxsports2.png",
-          "title": "MAX SORT 2"
-        },
+
+        
+       
          {
           "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [ "http://201.230.121.85:8000/play/a0yv/index.m3u8"
@@ -1817,6 +1670,16 @@ http://212.102.60.231/TSN_5/index.m3u8
           "thumb": "https://od.lk/s/NDZfODM4NDk3NzFf/Sony_TEN5HD.jpeg",
           "title": "SONY TEN 5"
         },
+         {
+          "description": "Super Sport Football TV est une chaine du Sports du brasil.",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=396882&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
+          "title": "SUPER SPORT FOOTBALL"
+        },
 
  {
           "description": "ARENA PREMIUM 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -1997,6 +1860,146 @@ http://212.102.60.231/TSN_5/index.m3u8
           "number": "373",
           "thumb": "https://od.lk/s/NDZfODQyMzI3MDlf/ssc1tv.jpeg",
           "title": "SSC 1"
+        },
+         {
+          "description": "Arena Sport 1 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1115&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTExNzJf/ArenaSport1.png",
+          "title": "ARENA-S 1"
+        },
+        {
+          "description": "Arena Sport 2 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1114&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDNf/ArenaSport2.png",
+          "title": "ARENA-S 2"
+        },
+        {
+          "description": "Arena Sport 3 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1113&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDRf/ArenaSport3.png",
+          "title": "ARENA-S 3"
+        },
+         {
+          "description": "Arena Sport 4 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1112&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDVf/ArenaSport4.png",
+          "title": "ARENA-S 4"
+        },
+        {
+          "description": "Arena Sport 5 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1111&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDZf/ArenaSport5.png",
+          "title": "ARENA-S 5"
+        },
+        {
+          "description": "Arena Sport 6 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1110&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDdf/ArenaSport6.png",
+          "title": "ARENA-S 6"
+        },
+        {
+          "description": "Arena Sport 7 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558961&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDhf/ArenaSport7.png",
+          "title": "ARENA-S 7"
+        },
+        {
+          "description": "Arena Sport 8 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558962&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMDlf/ArenaSport8.png",
+          "title": "ARENA-S 8"
+        },
+        {
+          "description": "Arena Sport 9 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558963&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMTBf/ArenaSport9.png",
+          "title": "ARENA-S 9"
+        },
+        {
+          "description": "Arena Sport 10 TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558964&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTcwMTFf/ArenaSports10.png",
+          "title": "ARENA-S 10"
+        },
+        {
+          "description": "Arena Sport Fight TV est une chaine du Sports",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558967&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA4OTk5NTdf/ArenaSportFight.png",
+          "title": "ARENA FIGHT"
+        },
+         {
+          "description": "4Football Sport TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "4FOOTBALL SPORT"
+        },
+        {
+          "description": "Max Sport 1 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558965&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "982",
+          "thumb": "https://od.lk/s/NDZfOTA5MDA4MTNf/maxsport1.png",
+          "title": "MAX SPORT 1"
+        },
+        {
+          "description": "Max Sport 2 TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=558966&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "909",
+          "thumb": "https://od.lk/s/NDZfOTA5MDA4MTZf/maxsports2.png",
+          "title": "MAX SORT 2"
         },
   
 
