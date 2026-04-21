@@ -54,75 +54,163 @@
           "thumb": "https://od.lk/s/NDZfOTEyMDU1ODdf/sports6tv.png",
           "title": "SPORTS 6"
         },
-        {
-          "description": "Vsport Extra TV est une chaine du Sports International.",
+        
+          {
+          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
           "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=m3u8"
+            "http://145.239.5.177/566/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTZf/vsportExtra.png",
-          "title": "V-SPORT EXTRAT"
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
+          "title": "SUPER-S SPL"
         },
          {
-          "description": "Vsport Premium TV est une chaine du Sports International.",
+          "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
           "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294056&extension=m3u8"
+            "http://145.239.5.177/561/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyNzQxNThf/vsportPremium.png",
-          "title": "V-SPORT PREMIUM"
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
+          "title": "+SPORT 360"
         },
         {
-          "description": "Vsport Football 🇸🇪 TV est une chaine du Sports International.",
+          "description": "Canal Plus Sports la chaine sportive qui se focalise au championnat international de Crickets....",
           "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=m3u8"
+            "https://vavoo.to/play/2391290436/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTdf/vsportFootball.png",
-          "title": "V-SPORT FOOTBALL"
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
+          "title": "CANAL+ SPORTS"
         },
         {
-          "description": "Vsport 1 🇸🇪 TV est une chaine du Sports International.",
+          "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1109060&extension=m3u8"
+            "http://212.102.60.80/Infosport/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyNzM4OTFf/vsport1.png",
-          "title": "V-SPORT 1"
+          "number": "382",
+          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
+          "title": "INFO SPORTS"
+        },
+         {
+          "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://201.230.121.85:8000/play/a0yv/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
+          "title": "CANAL+ SPORT"
+        },
+         {
+          "description": "Canal+ Foot est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://145.239.5.177/322/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ FOOT"
         },
         {
-          "description": "Vsport 2 🇸🇪 TV est une chaine du Sports International.",
-          "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294045&extension=m3u8"
+          "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/4021366844/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTNf/vsport2.png",
-          "title": "V-SPORT 2"
+          "number": "651",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
+          "title": "CANAL+ SPORT"
         },
         {
-          "description": "Vsport 3 🇸🇪 TV est une chaine du Sports International.",
-          "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294039&extension=m3u8"
+          "description": "Canal+ Sports 1 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/4177424223/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTRf/vsport3.png",
-          "title": "V-SPORT 3"
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 1"
+        },
+         {
+          "description": "Canal+ Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/3894356861/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzlf/canalsporttwoo.jpg",
+          "title": "CANAL+ SPORT 2"
         },
         {
-          "description": "Vsport 4 🇸🇪 TV est une chaine du Sports International.",
-          "sources": [
-            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294042&extension=m3u8"
+          "description": "Canal+ Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/3780364466/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTVf/vsport4.png",
-          "title": "V-SPORT 4"
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 3"
+        },
+        {
+          "description": "Canal+ Sports 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwMjJf/canalplusquatre.png",
+          "title": "CANAL+ SPORT 4"
+        },
+         {
+          "description": "Canal+ Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 5"
+        },
+        {
+          "description": "Canal+ Sports 6 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/4021366844/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 6"
+        },
+        {
+          "description": "Canal+ Sports 7 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/703788444/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 7"
+        },
+        {
+          "description": "Canal+ Sports 8 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/2391290436/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 8"
+        },
+        {
+          "description": "Canal+ Sports 360 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ 360"
+        },
+        {
+          "description": "Canal+ Foot 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1975426357/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ FOOT 2"
         },
         {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -154,18 +242,6 @@
           "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
           "title": "MATCH 3"
         },
-
-        
-       
-         {
-          "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://201.230.121.85:8000/play/a0yv/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
-          "title": "CANAL+ SPORT"
-        },
          {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
@@ -195,76 +271,6 @@
           "number": "372",
           "thumb": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
           "title": "BEIN-S 1 FR"
-        },
-        {
-          "description": "Sky  Sport 1 TV est une chaine du Sports",
-          "sources": [
-            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1108&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzZf/sky1.jpg",
-          "title": "SK 1"
-        },
-        {
-          "description": "Sky  Sport 2 TV est une chaine du Sports",
-          "sources": [
-            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1107&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA5MDIxNTNf/sk2.jpg",
-          "title": "SK 2"
-        },
-        {
-          "description": "Sky  Sport 3 TV est une chaine du Sports",
-          "sources": [
-            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1106&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA5MDIxNjNf/sk3.jpg",
-          "title": "SK 3"
-        },
-        {
-          "description": "Sky  Sport 4 TV est une chaine du Sports",
-          "sources": [
-            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1105&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA5MDIxOTRf/sk4tv.jpg",
-          "title": "SK 4"
-        },
-        {
-          "description": "Sky  Sport 5 TV est une chaine du Sports",
-          "sources": [
-            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1104&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzVf/SK_5.webp",
-          "title": "SK 5"
-        },
-        {
-          "description": "Sky  Sport 6 TV est une chaine du Sports",
-          "sources": [
-            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1103&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzdf/sky6.jpg",
-          "title": "SK 6"
-        },
-        {
-          "description": "Sky  Golf TV est une chaine du Sports",
-          "sources": [
-            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1102&extension=m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzlf/skyGolf.png",
-          "title": "SK GOLF"
         },
         {
           "description": "Premiere Sports 1 la chaine sportive qui se focalise au championnat international...",
@@ -464,16 +470,6 @@
           "title": "SPORTS 5"
         },  
         {
-          "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://212.102.60.80/Infosport/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "382",
-          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
-          "title": "INFO SPORTS"
-        },
-        {
           "description": "WWE TV la chaine sportive qui se focalise au combats",
           "sources": [
             "http://fl1.moveonjoy.com/WWE/index.m3u8"
@@ -492,17 +488,7 @@
           "number": "429",
           "thumb": "https://od.lk/s/NDZfODcwMzc5Njhf/strongmantv.jpg",
           "title": "STRONGMAN TV"
-          },
-          {
-          "description": "Canal Plus Sports la chaine sportive qui se focalise au championnat international de Crickets....",
-          "sources": [
-            "https://vavoo.to/play/2391290436/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
-          "title": "CANAL+ SPORTS"
-        },
+          },        
           {
           "description": "Super SPORT SPL la chaine sportive qui se focalise au championnat international...",
           "sources": [
@@ -532,35 +518,6 @@
           "number": "429",
           "thumb": "https://od.lk/s/NDZfODU0ODYzNzBf/supersporthd.jpeg",
           "title": "SUPER SPORT"
-        },
-        {
-          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "http://145.239.5.177/566/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
-          "title": "SUPER-S SPL"
-        },
-         {
-          "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
-          "sources": [
-            "http://145.239.5.177/561/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
-          "title": "+SPORT 360"
-        },
-         {
-          "description": "Canal+ Foot est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://145.239.5.177/322/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ FOOT"
         },
          {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -796,105 +753,6 @@
           "number": "651",
           "thumb": "https://od.lk/s/NDZfODg3NDMzMzZf/FIFAUSA.png",
           "title": "FIFA + USA"
-        },
-        {
-          "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/4021366844/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
-          "title": "CANAL+ SPORT"
-        },
-        {
-          "description": "Canal+ Sports 1 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/4177424223/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 1"
-        },
-         {
-          "description": "Canal+ Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/3894356861/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18yNTkxODczMzlf/canalsporttwoo.jpg",
-          "title": "CANAL+ SPORT 2"
-        },
-        {
-          "description": "Canal+ Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/3780364466/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 3"
-        },
-        {
-          "description": "Canal+ Sports 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwMjJf/canalplusquatre.png",
-          "title": "CANAL+ SPORT 4"
-        },
-         {
-          "description": "Canal+ Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 5"
-        },
-        {
-          "description": "Canal+ Sports 6 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/4021366844/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 6"
-        },
-        {
-          "description": "Canal+ Sports 7 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/703788444/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 7"
-        },
-        {
-          "description": "Canal+ Sports 8 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/2391290436/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 8"
-        },
-        {
-          "description": "Canal+ Sports 360 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ 360"
-        },
-        {
-          "description": "Canal+ Foot 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/1975426357/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ FOOT 2"
         },
         {
           "description": "DAZN Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -1618,6 +1476,148 @@ http://212.102.60.231/TSN_2/index.m3u8
 http://212.102.60.231/TSN_3/index.m3u8 
 http://212.102.60.231/TSN_4/index.m3u8 
 http://212.102.60.231/TSN_5/index.m3u8
+
+
+{
+          "description": "Vsport Extra TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTZf/vsportExtra.png",
+          "title": "V-SPORT EXTRAT"
+        },
+         {
+          "description": "Vsport Premium TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294056&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNThf/vsportPremium.png",
+          "title": "V-SPORT PREMIUM"
+        },
+        {
+          "description": "Vsport Football 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTdf/vsportFootball.png",
+          "title": "V-SPORT FOOTBALL"
+        },
+        {
+          "description": "Vsport 1 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1109060&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyNzM4OTFf/vsport1.png",
+          "title": "V-SPORT 1"
+        },
+        {
+          "description": "Vsport 2 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294045&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTNf/vsport2.png",
+          "title": "V-SPORT 2"
+        },
+        {
+          "description": "Vsport 3 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294039&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTRf/vsport3.png",
+          "title": "V-SPORT 3"
+        },
+        {
+          "description": "Vsport 4 🇸🇪 TV est une chaine du Sports International.",
+          "sources": [
+            "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294042&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTEyNzQxNTVf/vsport4.png",
+          "title": "V-SPORT 4"
+        },
+        {
+          "description": "Sky  Sport 1 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1108&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzZf/sky1.jpg",
+          "title": "SK 1"
+        },
+        {
+          "description": "Sky  Sport 2 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1107&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxNTNf/sk2.jpg",
+          "title": "SK 2"
+        },
+        {
+          "description": "Sky  Sport 3 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1106&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxNjNf/sk3.jpg",
+          "title": "SK 3"
+        },
+        {
+          "description": "Sky  Sport 4 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1105&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxOTRf/sk4tv.jpg",
+          "title": "SK 4"
+        },
+        {
+          "description": "Sky  Sport 5 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1104&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzVf/SK_5.webp",
+          "title": "SK 5"
+        },
+        {
+          "description": "Sky  Sport 6 TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1103&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzdf/sky6.jpg",
+          "title": "SK 6"
+        },
+        {
+          "description": "Sky  Golf TV est une chaine du Sports",
+          "sources": [
+            " http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:4D&stream=1102&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTA5MDIxMzlf/skyGolf.png",
+          "title": "SK GOLF"
+        },
 
 
     {
