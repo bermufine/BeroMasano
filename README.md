@@ -54,8 +54,7 @@
           "thumb": "https://od.lk/s/NDZfOTEyMDU1ODdf/sports6tv.png",
           "title": "SPORTS 6"
         },
-        
-          {
+        {
           "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
           "sources": [
             "http://145.239.5.177/566/index.m3u8"
@@ -68,7 +67,7 @@
          {
           "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
           "sources": [
-            "http://145.239.5.177/561/index.m3u8"
+            "https://kool.to/play/3411759213/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "429",
@@ -76,14 +75,14 @@
           "title": "+SPORT 360"
         },
         {
-          "description": "Canal Plus Sports la chaine sportive qui se focalise au championnat international de Crickets....",
+          "description": "Plus Foot Sports la chaine sportive qui se focalise au championnat international de Crickets....",
           "sources": [
-            "https://vavoo.to/play/2391290436/index.m3u8"
+            "https://kool.to/play/1821057687/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "429",
           "thumb": "https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
-          "title": "CANAL+ SPORTS"
+          "title": "+FOOT"
         },
         {
           "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
@@ -96,56 +95,56 @@
           "title": "INFO SPORTS"
         },
          {
-          "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://201.230.121.85:8000/play/a0yv/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
-          "title": "CANAL+ SPORT"
-        },
-         {
-          "description": "Canal+ Foot est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://145.239.5.177/322/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ FOOT"
-        },
-        {
-          "description": "Canal+ Sports est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/4021366844/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
-          "title": "CANAL+ SPORT"
-        },
-        {
           "description": "Canal+ Sports 1 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/4177424223/index.m3u8"
+          "sources": [ "https://kool.to/play/1162549650/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
           "title": "CANAL+ SPORT 1"
         },
          {
           "description": "Canal+ Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/3894356861/index.m3u8"
+          "sources": [ "https://kool.to/play/703788444/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "651",
-          "thumb": "https://od.lk/s/M18yNTkxODczMzlf/canalsporttwoo.jpg",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
           "title": "CANAL+ SPORT 2"
+        },
+        {
+          "description": "Canal+ Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kool.to/play/1066093298/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
+          "title": "CANAL+ SPORT 3"
+        },
+        {
+          "description": "Canal+ Sports 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kool.to/play/2376832738/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "654",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 4"
+        },
+         {
+          "description": "Canal+ Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kool.to/play/2966142802/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "655",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzlf/canalsporttwoo.jpg",
+          "title": "CANAL+ SPORT 5"
         },
         {
           "description": "Canal+ Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [ "https://vavoo.to/play/3780364466/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "651",
+          "number": "656",
           "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
           "title": "CANAL+ SPORT 3"
         },
