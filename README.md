@@ -1,16 +1,13 @@
 # BeroMasano
 {
-  "categories": [
-    {
-      "name": "Movies",
-      "videos": [
+  "categories": [{"name": "Movies", "videos": [
         {
           "description": "Sports Cast TV la chaine sportive qui se focalise au combats",
           "sources": [
             "https://afreetv.live4.broadsmart-cdn.link/sca/smil:sca.stream.smil/playlist.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
+          "number": "1000",
           "number": "https://od.lk/s/NDZfOTI2NDgwNjhf/sportCast.jpg",
           "title": "SPORTS CAST TV"
         },
@@ -20,7 +17,7 @@
             "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/4c934263-7c5a-4b5b-9fe5-3cbdcd02b686/source/index.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "000",
+          "number": "1001",
           "thumb": "https://od.lk/s/NDZfOTI2NDgwNjNf/cantv.jpg",
           "title": "CAN TV"
         },
