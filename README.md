@@ -10,6 +10,7 @@
             "https://afreetv.live4.broadsmart-cdn.link/sca/smil:sca.stream.smil/playlist.m3u8"
           ],
           "subtitle": "All Channels",
+          "number": "000",
           "number": "https://od.lk/s/NDZfOTI2NDgwNjhf/sportCast.jpg",
           "title": "SPORTS CAST TV"
         },
