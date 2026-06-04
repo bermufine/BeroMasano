@@ -1,6 +1,119 @@
 # BeroMasano
 {
   "categories": [{"name": "Movies", "videos": [
+    {
+          "description": "SKY FOOTBALL TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://kool.to/play/2213902837/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODkwMzQyNjFf/skyfootball.png",
+          "title": "SKY FOOTBALL"
+        },
+        {
+          "description": "SKY SPORT LIGA TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://kool.to/play/699577993/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODkwMzQyMjdf/skyliga.jpg",
+          "title": "SKY LIGA"
+        },
+        {
+          "description": "SKY SPORT FC (Fan Club) TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://kool.to/play/674277627/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODkwMzQ4MDlf/skysport.jpg",
+          "title": "SKY FAN CLUB"
+        },
+        {
+          "description": "SKY SPORT FI TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://kool.to/play/1922768904/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODkwMzQ2MjJf/skysportf1.png",
+          "title": "SKY FI"
+        },
+        {
+          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "https://kool.to/play/1254469653/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
+          "title": "SUPER SPORT"
+        },
+        {
+          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://145.239.5.177/566/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
+          "title": "SUPER-S SPL"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+        
+     {
+          "description": "Sports Cast la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "https://afreetv.live4.broadsmart-cdn.link/sca/smil:sca.stream.smil/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTI2NDgwNjhf/sportCast.jpg",
+          "title": "SPORTS CAST TV"
+        },
+        {
+          "description": "Can TV la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/4c934263-7c5a-4b5b-9fe5-3cbdcd02b686/source/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTI2NDgwNjNf/cantv.jpg",
+          "title": "CAN TV"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         {
           "description": "Sport 1 TV TV est une chaine du Sports International.",
           "sources": [
@@ -51,36 +164,8 @@
           "thumb": "https://od.lk/s/NDZfOTEyMDU1ODdf/sports6tv.png",
           "title": "SPORTS 6"
         },
-        {
-          "description": "Sports Cast la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "https://afreetv.live4.broadsmart-cdn.link/sca/smil:sca.stream.smil/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTI2NDgwNjhf/sportCast.jpg",
-          "title": "SPORTS CAST TV"
-        },
-        {
-          "description": "Can TV la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/4c934263-7c5a-4b5b-9fe5-3cbdcd02b686/source/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTI2NDgwNjNf/cantv.jpg",
-          "title": "CAN TV"
-        }, 
-        {
-          "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "http://145.239.5.177/566/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
-          "title": "SUPER-S SPL"
-        },
+      
+        
          {
           "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
           "sources": [
@@ -665,46 +750,7 @@
           "thumb": "https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
           "title": "BEIN EXTRAS"
         },
-        {
-          "description": "SKY FOOTBALL TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "http://178.33.239.54:8080/500a/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "984",
-          "thumb": "https://od.lk/s/NDZfODkwMzQyNjFf/skyfootball.png",
-          "title": "SKY FOOTBALL"
-        },
-        {
-          "description": "SKY SPORT LIGA TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "http://181.78.106.127:9000/play/ca030/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "984",
-          "thumb": "https://od.lk/s/NDZfODkwMzQyMjdf/skyliga.jpg",
-          "title": "SKY LIGA"
-        },
-        {
-          "description": "SKY SPORT FC (Fan Club) TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "http://178.33.239.54:8080/501a/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "984",
-          "thumb": "https://od.lk/s/NDZfODkwMzQ4MDlf/skysport.jpg",
-          "title": "SKY FAN CLUB"
-        },
-         {
-          "description": "SKY SPORT FI TV est la chaine sportive qui se focalise aux Sports..",
-          "sources": [
-            "https://vavoo.to/play/2161191460/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "984",
-          "thumb": "https://od.lk/s/NDZfODkwMzQ2MjJf/skysportf1.png",
-          "title": "SKY FI"
-        },
+      
         {
           "description": "Fifa Plus est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
