@@ -488,6 +488,16 @@
           "number": "415",
           "thumb": "https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png",
           "title": "TRACE SPORTS"
+        },
+        {
+          "description": "SKY FOOTBALL TV est la chaine sportive qui se focalise aux Sports..",
+          "sources": [
+            "https://kool.to/play/2213902837/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "984",
+          "thumb": "https://od.lk/s/NDZfODkwMzQyNjFf/skyfootball.png",
+          "title": "SKY FOOTBALL"
         }
       ]
     }
