@@ -112,14 +112,71 @@
           "title": "BEIN 6"
         },
         {
-          "description": "BEIN SPORTS 9 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
+          "description": "BEIN SPORTS 10 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
           "sources": [
             "https://kool.to/play/2473905459/index.m3u8"
           ],
           "subtitle": "All Channels",
            "number": "407",
           "thumb": "https://od.lk/s/M18yOTczMTIxMjRf/beinNine.png",
-          "title": "BEIN 9"
+          "title": "BEIN 10"
+        },
+         {
+          "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://212.102.60.80/Infosport/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "382",
+          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
+          "title": "INFO SPORTS"
+        },
+        {
+          "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
+          "sources": [
+            "https://kool.to/play/3411759213/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
+          "title": "+SPORT 360"
+        },
+        {
+          "description": "Plus Foot Sports la chaine sportive qui se focalise au championnat international de Crickets....",
+          "sources": [
+            "https://kool.to/play/1821057687/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "429",
+          "thumb": "https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
+          "title": "+FOOT"
+        },
+        {
+          "description": "Canal+ Foot 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://vavoo.to/play/1975426357/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ FOOT 2"
+        },
+         {
+          "description": "Canal+ Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kool.to/play/703788444/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "655",
+          "thumb": "https://od.lk/s/M18yNTkxODczMzlf/canalsporttwoo.jpg",
+          "title": "CANAL+ 2"
+        }, 
+         {
+          "description": "Canal+ Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kool.to/play/2966142802/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "654",
+          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
+          "title": "CANAL+ SPORT 5"
         }
       ]
     }
@@ -235,36 +292,9 @@
         },
       
         
-         {
-          "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international de Crickets....",
-          "sources": [
-            "https://kool.to/play/3411759213/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
-          "title": "+SPORT 360"
-        },
-        {
-          "description": "Plus Foot Sports la chaine sportive qui se focalise au championnat international de Crickets....",
-          "sources": [
-            "https://kool.to/play/1821057687/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "429",
-          "thumb": "https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
-          "title": "+FOOT"
-        },
-        {
-          "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-          "sources": [
-            "http://212.102.60.80/Infosport/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "382",
-          "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
-          "title": "INFO SPORTS"
-        },
+      
+    
+       
          {
           "description": "Canal+ Sports 1 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [ "https://kool.to/play/1162549650/index.m3u8"
@@ -292,33 +322,8 @@
           "thumb": "https://od.lk/s/M18yNTkxODczMzhf/canalsport.png",
           "title": "CANAL+ SPORT 3"
         },
-        {
-          "description": "Canal+ Sports 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://kool.to/play/2376832738/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "654",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 4"
-        },
-         {
-          "description": "Canal+ Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://kool.to/play/2966142802/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "655",
-          "thumb": "https://od.lk/s/M18yNTkxODczMzlf/canalsporttwoo.jpg",
-          "title": "CANAL+ SPORT 5"
-        },
-        {
-          "description": "Canal+ Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/3780364466/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "656",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 3"
-        },
+       
+       
         {
           "description": "Canal+ Sports 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
@@ -328,15 +333,8 @@
           "thumb": "https://od.lk/s/M18zMDM4MjcwMjJf/canalplusquatre.png",
           "title": "CANAL+ SPORT 4"
         },
-         {
-          "description": "Canal+ Sports 5 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/1814819760/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ SPORT 5"
-        },
+     
+         
         {
           "description": "Canal+ Sports 6 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [ "https://vavoo.to/play/4021366844/index.m3u8"
@@ -373,15 +371,10 @@
           "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
           "title": "CANAL+ 360"
         },
-        {
-          "description": "Canal+ Foot 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://vavoo.to/play/1975426357/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png",
-          "title": "CANAL+ FOOT 2"
-        },
+
+
+
+        
         {
           "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
