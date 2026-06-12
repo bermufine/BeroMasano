@@ -54,7 +54,7 @@
         {
           "description": "Setanta Sport 2 la chaine sportive qui se focalise au championnat international....",
           "sources": [
-            "https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8"
+            "https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
