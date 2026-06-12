@@ -42,6 +42,26 @@
           "title": "SKY FI"
         },
         {
+          "description": "Setanta Sport 1 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTMwMDY0NDNf/setanta1.jfif",
+          "title": "SETANTA SPORT 1"
+        },
+        {
+          "description": "Setanta Sport 2 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTMwMDY0NDRf/setanta2.jfif",
+          "title": "SETANTA SPORT 2"
+        },
+        {
           "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
           "sources": [
             "https://kool.to/play/1254469653/index.m3u8"
