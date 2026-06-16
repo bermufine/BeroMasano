@@ -18,7 +18,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzBf/mathpember.jpg",
           "title": "MATCH 2"
         },
         {
@@ -38,7 +38,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzFf/math4.jpg",
           "title": "MATCH 4"
         },
         {
@@ -58,7 +58,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzVf/math1.jpg",
           "title": "MATCH ARENA"
       },
      {
