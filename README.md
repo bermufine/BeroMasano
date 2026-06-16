@@ -122,6 +122,16 @@
           "title": "SETANTA SPORT 2"
         },
         {
+          "description": "Star Sport 1 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://41.205.93.154/STARSPORTS1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTMwMzM0MjVf/starsport1.jpg",
+          "title": "STAR SPORT 1"
+        },
+        {
           "description": "Super SPORT la chaine sportive qui se focalise au championnat international....",
           "sources": [
             "https://kool.to/play/1254469653/index.m3u8"
