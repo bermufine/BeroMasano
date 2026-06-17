@@ -61,6 +61,16 @@
           "thumb": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
           "title": "BEIN 1 QR"
         },
+         {
+          "description": "Sport-tv 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://kool.to/play/1438628906/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTMwMzk0NTNf/sporttv1.png",
+          "title": "SPORT-TV 1"
+        },
    {
           "description": "MATCH 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
