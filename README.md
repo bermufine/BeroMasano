@@ -262,6 +262,24 @@
           "title": "BEIN 3"
         },
         {
+          "description": "Ziggo Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kool.to/play/3120243495/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "650",
+          "thumb": "https://od.lk/s/NDZfOTMwMzk0Mjhf/ziggo3.png",
+          "title": "ZIGGO 3"
+        },
+        {
+          "description": "Ziggo Sport 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kool.to/play/281998250/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "650",
+          "thumb": "https://od.lk/s/NDZfOTMwMzk0Mjlf/ziggo4.png",
+          "title": "ZIGGO 4"
+        },
+        {
           "description": "BEIN SPORTS 4 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
           "sources": [
             "https://kool.to/play/4005135586/index.m3u8"
@@ -903,24 +921,7 @@
           "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
           "title": "ZIGGO SPORT 2"
         },
-        {
-          "description": "Ziggo Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "650",
-          "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
-          "title": "ZIGGO SPORT 3"
-        },
-        {
-          "description": "Ziggo Sport Live est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "650",
-          "thumb": "https://od.lk/s/NDZfODk5NjEwMzZf/ziggo5tv.png",
-          "title": "ZIGGO LIVE"
-        },
+        
        
 
           
