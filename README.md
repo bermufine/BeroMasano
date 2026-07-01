@@ -657,6 +657,36 @@
           "thumb": "https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png",
           "title": "TRACE SPORTS"
         },
+         {
+          "description": "TRACE SPORTS est la chaine sportive qui se focalise aux informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745088.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "415",
+          "thumb": "https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png",
+          "title": "TRACE SPORTS 2"
+        },
+        {
+          "description": "TRACE SPORTS est la chaine sportive qui se focalise aux informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745088&extension=m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "415",
+          "thumb": "https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png",
+          "title": "TRACE SPORTS 2"
+        },
+           {
+          "description": "TRACE SPORTS est la chaine sportive qui se focalise aux informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+          "sources": [
+            "http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745088&extension=.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "415",
+          "thumb": "https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png",
+          "title": "TRACE SPORTS 2"
+        },
         {
           "description": "SKY FOOTBALL TV est la chaine sportive qui se focalise aux Sports..",
           "sources": [
