@@ -2,6 +2,16 @@
 {
   "categories": [{"name": "Movies", "videos": [
 {
+          "description": "Sport-tv est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://znty.dyndns.org:5010/hls/sportv+.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTMwMzk0NTNf/sporttv1.png",
+          "title": "SPORT-TV"
+},
+{
           "description": "Sport-tv 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://znty.dyndns.org:5010/hls/stv1.m3u8"
@@ -397,14 +407,14 @@
           "title": "DAZN 5"
         },
         {
-          "description": "Sport-tv 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "description": "Sport-tv est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "http://znty.dyndns.org:5010/hls/stv1.m3u8"
+            "http://znty.dyndns.org:5010/hls/sportv+.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "434",
           "thumb": "https://od.lk/s/NDZfOTMwMzk0NTNf/sporttv1.png",
-          "title": "SPORT-TV 1"
+          "title": "SPORT-TV"
          }
       ]
     }
