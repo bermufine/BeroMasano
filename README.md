@@ -34,7 +34,40 @@
           "title": "BEIN 1 AR"
 },
 
-   {
+ {
+          "description": "Setanta Sport 2 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/6544/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTMwMDY0NDRf/setanta2.jfif",
+          "title": "SETANTA SPORT 2"
+},
+
+{
+          "description": "Nova Sports 4 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31571/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "title": "NOVA SPORTS 4"
+},
+
+{
+          "description": "Digi Sports 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "title": "DIGI SPORTS 1"
+},
+
+{
           "description": "MATCH 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "https://o1.cdntv.online/low/9mlxywika2/48.m3u8"
@@ -115,28 +148,41 @@
           "thumb": "https://od.lk/s/NDZfOTMwMzk0NTNf/sporttv1.png",
           "title": "SPORT-TV 1"
 },
-    
+
+{
+          "description": "Беларусь 5 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://cdntv.online/low/9mlxywika2/778.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/M18zMzY5MjcyMzNfTVJmUHQ",
+          "title": "Беларусь"
+},
+
+{
+          "description": "OTT CLUB 1 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/M18zMzY5MjcyMDlfazZxVlA",
+          "title": "OTT CLUB"
+},
+       
 {
           "description": "Setanta Sport 1 la chaine sportive qui se focalise au championnat international....",
           "sources": [
-            "https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8"
+            "http://cdntv.online/low/9mlxywika2/1021.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
           "thumb": "https://od.lk/s/NDZfOTMwMDY0NDNf/setanta1.jfif",
           "title": "SETANTA SPORT 1"
-        },
-        {
-          "description": "Setanta Sport 2 la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTMwMDY0NDRf/setanta2.jfif",
-          "title": "SETANTA SPORT 2"
-        },
-        {
+},
+       
+ {
           "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "http://212.102.60.80/Infosport/index.m3u8"
