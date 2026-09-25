@@ -57,6 +57,17 @@
 },
 
 {
+          "description": "Sport-tv est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://195.178.110.110/sportv/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTMwMzk0NTNf/sporttv1.png",
+          "title": "SPORT-TV"
+},
+
+{
           "description": "Digi Sports 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8"
@@ -385,6 +396,33 @@
           "number": "651",
           "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
           "title": "DAZN 5"
+        },
+         {
+          "description": "Test Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
+          "title": "TEST1"
+        },
+         {
+          "description": "Test Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
+          "title": "TEST2"
+        },
+        {
+          "description": "Test Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "651",
+          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
+          "title": "TEST3"
         },
         {
           "description": "WWE TV est une chaine specialise au catch wrestling",
