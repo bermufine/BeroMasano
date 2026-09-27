@@ -34,14 +34,47 @@
           "title": "BEIN 1 AR"
 },
 
- {
+{
+          "description": "Setanta Sport la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://stream.mcquack.net/234/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfOTgyMDY5MjNfRERSV1c",
+          "title": "SETANTA SPORT"
+},
+
+{
+          "description": "Setanta Sport 1 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://stream.mcquack.net/234/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfOTgyMDY5ODBfUjF1amY",
+          "title": "SETANTA SPORT 1"
+},
+
+{
+          "description": "Setanta Sport 2 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://stream.mcquack.net/235/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfOTgyMDY5NzlfOXJLV3E",
+          "title": "SETANTA SPORT 2"
+},
+
+{
           "description": "Setanta Sport 2 la chaine sportive qui se focalise au championnat international....",
           "sources": [
             "http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/6544/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTMwMDY0NDRf/setanta2.jfif",
+          "thumb": "https://od.lk/thumb/NDZfOTgyMDY5NzlfOXJLV3E",
           "title": "SETANTA SPORT 2"
 },
 
