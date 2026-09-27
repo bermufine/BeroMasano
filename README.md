@@ -79,6 +79,28 @@
 },
 
 {
+          "description": "Spiler Sport 1 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://88.212.15.19/live/spiler1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfOTgyMDY5MTNfM0RodFU",
+          "title": "SPILER SPORT 1"
+},
+
+{
+          "description": "Spiler Sport 2 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://88.212.15.19/live/spiler2/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfOTgyMDY5MTVfYU9JcUY",
+          "title": "SPILER SPORT 2"
+},
+
+{
           "description": "MATCH 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "https://o1.cdntv.online/low/9mlxywika2/48.m3u8"
