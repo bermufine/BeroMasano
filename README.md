@@ -247,8 +247,30 @@
           "thumb": "https://od.lk/s/NDZfOTMwMDY0NDNf/setanta1.jfif",
           "title": "SETANTA SPORT 1"
 },
+
+{
+      "description": "Star Sport 1 la chaine sportive qui se focalise au championnat international....",
+      "sources": [
+        "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
+      ],
+      "subtitle": "All Channels",
+      "number": "000",
+      "thumb": "https://od.lk/s/NDZfOTMwMzM0MjVf/starsport1.jpg",
+      "title": "STAR SPORT 1"
+},
+
+{
+      "description": "Star Sport 2 la chaine sportive qui se focalise au championnat international....",
+      "sources": [
+        "http://tvsen7.aynascope.net/ssport2hd/index.m3u8"
+      ],
+      "subtitle": "All Channels",
+      "number": "000",
+      "thumb": "https://od.lk/s/NDZfOTMwMzM0MjVf/starsport1.jpg",
+      "title": "STAR SPORT 2"
+},
        
- {
+{
           "description": "Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "http://212.102.60.80/Infosport/index.m3u8"
