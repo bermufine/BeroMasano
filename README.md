@@ -35,14 +35,25 @@
 },
 
 {
-          "description": "Setanta Sport la chaine sportive qui se focalise au championnat international....",
+          "description": "CRTV Sport la chaine sportive qui se focalise au championnat international....",
           "sources": [
-            "http://stream.mcquack.net/234/index.m3u8"
+            "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/thumb/NDZfOTgyMDY5MjNfRERSV1c",
-          "title": "SETANTA SPORT"
+          "thumb": "https://od.lk/thumb/M18zMzgyNjQ3OTJfT1pOMko",
+          "title": "CRTV SPORT"
+},
+
+{
+          "description": "Digi Sports 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "title": "DIGI SPORTS 1"
 },
 
 {
@@ -90,6 +101,28 @@
 },
 
 {
+          "description": "Dynamo Sports  est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/396/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "title": "DYNAMO SPORTS"
+},
+
+{
+          "description": "Viju Sports  est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/333/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "title": "VIJU SPORTS"
+},
+
+{
           "description": "Sport-tv est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://195.178.110.110/sportv/index.m3u8"
@@ -98,17 +131,6 @@
           "number": "434",
           "thumb": "https://od.lk/s/NDZfOTMwMzk0NTNf/sporttv1.png",
           "title": "SPORT-TV"
-},
-
-{
-          "description": "Digi Sports 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
-          "title": "DIGI SPORTS 1"
 },
 
 {
@@ -203,6 +225,28 @@
           "thumb": "https://od.lk/s/NDZfOTA5MDIxMzZf/sky1.jpg",
           "title": "SK 1"
  },
+
+ {
+          "description": "Boxe Sport TV est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/154/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
+          "title": "BOXE TV"
+},
+
+{
+          "description": "Fight Sport TV est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/279/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
+          "title": "FIGHTS TV"
+},
   
 {
           "description": "Sport-tv 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
