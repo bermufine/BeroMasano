@@ -107,7 +107,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "thumb": "https://od.lk/thumb/M18zMzgyNjQ4MDRfWTRwcDY",
           "title": "DYNAMO SPORTS"
 },
 
@@ -118,7 +118,7 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "thumb": "https://od.lk/thumb/M18zMzgyNjQ4MDNfRE1kYUk",
           "title": "VIJU SPORTS"
 },
 
@@ -233,7 +233,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
+          "thumb": "https://od.lk/thumb/M18zMzgyNjQ4MDFfakJZVm8",
           "title": "BOXE TV"
 },
 
@@ -244,7 +244,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
+          "thumb": "https://od.lk/thumb/M18zMzgyNjQ4MDJfYjY0czE",
           "title": "FIGHTS TV"
 },
   
