@@ -52,7 +52,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY3MjYyX1pSQThp",
           "title": "DIGI SPORTS 1"
 },
 
@@ -107,19 +107,19 @@
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/thumb/M18zMzgyNjQ4MDRfWTRwcDY",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY3MjY1X2ZGOWxE",
           "title": "DYNAMO SPORTS"
 },
 
 {
-          "description": "Viju Sports  est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "description": "Viju+ Sports  est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
             "http://stream.mcquack.net/333/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
-          "thumb": "https://od.lk/thumb/M18zMzgyNjQ4MDNfRE1kYUk",
-          "title": "VIJU SPORTS"
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY3MzIwX09XMVJo",
+          "title": "VIJU+ SPORTS"
 },
 
 {
@@ -244,7 +244,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/thumb/M18zMzgyNjQ4MDJfYjY0czE",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY3MzIyX0JLUHpW",
           "title": "FIGHTS TV"
 },
   
