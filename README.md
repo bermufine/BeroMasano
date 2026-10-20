@@ -56,6 +56,17 @@
           "title": "MATCH MPEMBEP"
  },
 
+ {
+          "description": "Math Apeha tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/163/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "402",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY4MTE5X1NCaDZz",
+          "title": "MATH APEHA"
+},
+
 {
           "description": "MATCH ctpaha est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
@@ -132,6 +143,17 @@
           "thumb": "https://od.lk/thumb/NDZfOTgyMDY5ODBfUjF1amY",
           "title": "SETANTA SPORT 1"
 },
+   
+{
+          "description": "Setanta Sport 1 la chaine sportive qui se focalise au championnat international....",
+          "sources": [
+            "http://cdntv.online/low/9mlxywika2/1021.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/s/NDZfOTMwMDY0NDNf/setanta1.jfif",
+          "title": "SETANTA 1"
+},
 
 {
           "description": "Setanta Sport 2 la chaine sportive qui se focalise au championnat international....",
@@ -141,7 +163,7 @@
           "subtitle": "All Channels",
           "number": "000",
           "thumb": "https://od.lk/thumb/NDZfOTgyMDY5NzlfOXJLV3E",
-          "title": "SETANTA SPORT 2"
+          "title": "SETANTA 2"
 },
 
 {
@@ -152,7 +174,7 @@
           "subtitle": "All Channels",
           "number": "000",
           "thumb": "https://od.lk/thumb/NDZfOTgyMDY5NzlfOXJLV3E",
-          "title": "SETANTA SPORT 2"
+          "title": "SETANTA 2"
 },
 
 {
@@ -197,6 +219,17 @@
           "number": "434",
           "thumb": "https://od.lk/s/NDZfOTMwMzk0NTNf/sporttv1.png",
           "title": "SPORT-TV"
+},
+
+{
+          "description": "Kontinental Hockey League tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/166/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "402",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY4MTYwXzRndWtL",
+          "title": "KHL SPORT"
 },
 
 {
@@ -286,17 +319,6 @@
           "thumb": "https://od.lk/thumb/M18zMzY5MjcyMDlfazZxVlA",
           "title": "OTT CLUB"
 },
-       
-{
-          "description": "Setanta Sport 1 la chaine sportive qui se focalise au championnat international....",
-          "sources": [
-            "http://cdntv.online/low/9mlxywika2/1021.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "000",
-          "thumb": "https://od.lk/s/NDZfOTMwMDY0NDNf/setanta1.jfif",
-          "title": "SETANTA SPORT 1"
-},
 
 {
       "description": "Star Sport 1 la chaine sportive qui se focalise au championnat international....",
@@ -329,8 +351,9 @@
           "number": "382",
           "thumb": "https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
           "title": "INFO SPORTS"
-        },
-        {
+},
+
+{
           "description": "Sports Cast la chaine sportive qui se focalise au championnat international....",
           "sources": [
             "https://afreetv.live4.broadsmart-cdn.link/sca/smil:sca.stream.smil/playlist.m3u8"
@@ -339,8 +362,20 @@
           "number": "000",
           "thumb": "https://od.lk/s/NDZfOTI2NDgwNjhf/sportCast.jpg",
           "title": "SPORTS CAST TV"
-        },
-        {
+},
+
+{
+          "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://145.239.5.177/530/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "402",
+          "thumb": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
+          "title": "EUROSPORTS 2 FR"
+},
+
+{
           "description": "Can TV la chaine sportive qui se focalise au championnat international....",
           "sources": [
             "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/4c934263-7c5a-4b5b-9fe5-3cbdcd02b686/source/index.m3u8"
@@ -474,18 +509,9 @@
           "number": "651",
           "thumb": "https://od.lk/s/NDZfODg3NDMzMzZf/FIFAUSA.png",
           "title": "FIFA + USA"
-        },
-        {
-          "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://145.239.5.177/530/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "402",
-          "thumb": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
-          "title": "EUROSPORTS 2 FR"
-        },
-        {
+  },
+       
+  {
           "description": "REAL MADRID TV est la chaine sportive qui se focalise au Real Madrid fc  des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
           "sources": [
             "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"
@@ -515,43 +541,27 @@
           "thumb": "https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png",
           "title": "TRACE SPORTS"
         },
-        {
-          "description": "DAZN Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "http://znty.dyndns.org:5010/hls/eleven5.m3u8"
+{
+          "description": "Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://stream.mcquack.net/393/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "651",
-          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
-          "title": "DAZN 5"
-        },
-         {
-          "description": "Test Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8"
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY4MTg2X1R2bWdS",
+          "title": "SPORT 3"
+ },
+ 
+ {
+          "description": "Sports 4 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [ "http://stream.mcquack.net/394/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "651",
-          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
-          "title": "TEST1"
-        },
-         {
-          "description": "Test Sports 2 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
-          "title": "TEST2"
-        },
-        {
-          "description": "Test Sports 3 est une chaine de sports qui se focalise au championnatinternational avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [ "https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "651",
-          "thumb": "https://od.lk/s/NDZfODkxNzU3NDRf/DAZN2.png",
-          "title": "TEST3"
-        },
-        {
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY4MTg1X2ZzcHpW",
+          "title": "SPORT 4"
+},
+       
+{
           "description": "WWE TV est une chaine specialise au catch wrestling",
           "sources": [
             "https://aka-live1050.delivery.roku.com/00c75b40-02b2-4c11-9bd9-98be0b8600e8/t2-origin/out/v1/live.m3u8"
