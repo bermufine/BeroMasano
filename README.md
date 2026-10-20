@@ -13,6 +13,72 @@
 },
 
 {
+          "description": "MATCH 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/130/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "title": "MATCH 1"
+},
+
+{
+          "description": "MATCH 2 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/142/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzFf/math4.jpg",
+          "title": "MATCH 2"
+},
+
+{
+          "description": "MATCH 3 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/185/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
+          "title": "MATCH 3"
+ },
+
+ {
+          "description": "MATCH mpembep est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://o1.cdntv.online/low/9mlxywika2/52.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzBf/mathpember.jpg",
+          "title": "MATCH MPEMBEP"
+ },
+
+{
+          "description": "MATCH ctpaha est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/143/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY3NTk3X2E3aXNu",
+          "title": "MATCH CTPAHA"
+},
+
+{
+          "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "http://stream.mcquack.net/169/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "434",
+          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "title": "MATCH ARENA"
+},
+       
+{
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
           "sources": [
             "https://cp11.adabmedia.com/hls2/bein1.m3u8"
@@ -96,7 +162,7 @@
           ],
           "subtitle": "All Channels",
           "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+          "thumb": "https://od.lk/thumb/NzNfMTQ5MjY3NDQ2X0lxQUxW",
           "title": "NOVA SPORTS 4"
 },
 
@@ -153,68 +219,8 @@
           "number": "000",
           "thumb": "https://od.lk/thumb/NDZfOTgyMDY5MTVfYU9JcUY",
           "title": "SPILER SPORT 2"
-},
-
-{
-          "description": "MATCH 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "https://o1.cdntv.online/low/9mlxywika2/48.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
-          "title": "MATCH 1"
-        },
-        {
-          "description": "MATCH 2 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "https://o1.cdntv.online/low/9mlxywika2/52.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "434",
-          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzBf/mathpember.jpg",
-          "title": "MATCH 2"
-        },
-        {
-          "description": "MATCH 3 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://cdntv.online/low/9mlxywika2/57.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "434",
-          "thumb": "https://od.lk/s/NDZfOTAwNzU1OThf/maththree.png",
-          "title": "MATCH 3"
-        },
-        {
-          "description": "MATCH 4 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "https://o1.cdntv.online/low/9mlxywika2/54.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "434",
-          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzFf/math4.jpg",
-          "title": "MATCH 4"
-        },
-        {
-          "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://cdntv.online/low/9mlxywika2/55.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "434",
-          "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
-          "title": "MATCH ARENA"
-      },
-      {
-          "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-          "sources": [
-            "http://cdntv.online/low/9mlxywika2/51.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "number": "434",
-          "thumb": "https://od.lk/s/NDZfOTMwMzM0MzVf/math1.jpg",
-          "title": "MATCH ARENA"
-      },
+},      
+    
 {
           "description": "Sky  Sport 1 TV est une chaine du Sports",
           "sources": [
