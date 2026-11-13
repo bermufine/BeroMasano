@@ -2,6 +2,28 @@
 {
   "categories": [{"name": "Movies", "videos": [
   {
+          "description": "L'Equipe  est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM0NDE4X1A5OUhS",
+          "title": "L'EQUIPE"
+},
+
+{
+          "description": "Sky Premier League sports est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM0NDE1X0dEZ24z",
+          "title": "SKY PREMIER-L"
+},
+
+{
           "description": "WWE TV est une chaine specialise au catch wrestling",
           "sources": [
             "https://aka-live1050.delivery.roku.com/00c75b40-02b2-4c11-9bd9-98be0b8600e8/t2-origin/out/v1/live.m3u8"
@@ -88,6 +110,61 @@
           "thumb": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
           "title": "MATCH ARENA"
 },
+
+{
+          "description": "S-ELCUK SPORT 2 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM2NDE4X3lMZXFx",
+          "title": "S-ELCUKSPORT 2"
+},
+
+{
+          "description": "S-ELCUK SPORT 3 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM2NDE5XzFJTG0x",
+          "title": "S-ELCUKSPORT 3"
+},
+
+{
+          "description": "S-ELCUK SPORT 4 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM2NDEzX0VvdU1O",
+          "title": "S-ELCUKSPORT 4"
+},
+
+{
+          "description": "S-ELCUK SPORT 5 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM2NDE0X2xZZ1Jq",
+          "title": "S-ELCUKSPORT 5"
+},
+
+{
+          "description": "S-ELCUK SPORT 6 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+          "sources": [
+            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM2NDE3X0pYeHF5",
+          "title": "S-ELCUKSPORT 6"
+},  
        
 {
           "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
@@ -561,15 +638,15 @@
           "title": "SPORT 4"
 },
        
-{
-          "description": "WWE TV est une chaine specialise au catch wrestling",
+ {
+          "description": "L'Equipe  est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "https://aka-live1050.delivery.roku.com/00c75b40-02b2-4c11-9bd9-98be0b8600e8/t2-origin/out/v1/live.m3u8"
+            "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8"
           ],
           "subtitle": "All Channels",
-          "number": "372",
-          "thumb": "https://od.lk/s/M18zMzA4NDE3MDRf/wwetv.jfif",
-          "title": "WWE TV"
+          "number": "000",
+          "thumb": "https://od.lk/thumb/NDZfMTAwNTM0NDE4X1A5OUhS",
+          "title": "L'EQUIPE"
         }
       ]
     }
