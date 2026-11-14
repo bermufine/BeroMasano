@@ -147,7 +147,7 @@
 {
           "description": "S-ELCUK SPORT 2 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8"
+            "http://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
@@ -158,7 +158,7 @@
 {
           "description": "S-ELCUK SPORT 3 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8"
+            "http://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
@@ -180,12 +180,12 @@
 {
           "description": "S-ELCUK SPORT 5 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
           "sources": [
-            "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8"
+            "http://92.114.85.87:8002/play/a00e/index.m3u8"
           ],
           "subtitle": "All Channels",
           "number": "000",
           "thumb": "https://od.lk/thumb/NDZfMTAwNTM2NDE0X2xZZ1Jq",
-          "title": "S-ELCUKSPORT 5"
+          "title": "S-ELCUKSPORT 1"
 },
 
 {
